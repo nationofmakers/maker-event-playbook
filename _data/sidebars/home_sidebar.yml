@@ -44,15 +44,15 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Large Maker Event Guide
+    - title: Large Event Guide
       url: /event_type_large.html
       output: web, pdf
 
-    - title: Medium Maker Event Guide
+    - title: Medium Event Guide
       url: /event_type_medium.html
       output: web, pdf
       
-    - title: Small Maker Event Guide
+    - title: Small Event Guide
       url: /event_type_small.html
       output: web, pdf
 
