@@ -14,6 +14,9 @@ site_title: Maker Event Playbook
 company_name: Nation of Makers
 # this appears in the footer
 
+github_editme_path: nationofmakers/maker-event-playbook/blob/master/
+# if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
+
 feedback_subject_line: Maker Event Playbook
 
 feedback_email: ian.cole@themakereffect.org
