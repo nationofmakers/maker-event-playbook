@@ -36,19 +36,19 @@ entries:
       url: /documenting_your_event.html
       output: web, pdf
 
-  - title: Event Types
+  - title: Event Guides by Size
     output: web, pdf
     folderitems:
 
-    - title: Large Maker Events
+    - title: Large Maker Event Guide
       url: /event_type_large.html
       output: web, pdf
 
-    - title: Medium Maker Events
+    - title: Medium Maker Event Guide
       url: /event_type_medium.html
       output: web, pdf
       
-    - title: Small Maker Events
+    - title: Small Maker Event Guide
       url: /event_type_small.html
       output: web, pdf
 
