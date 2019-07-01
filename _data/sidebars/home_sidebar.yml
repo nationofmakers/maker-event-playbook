@@ -32,6 +32,10 @@ entries:
       url: /collaborators.html
       output: web, pdf
 
+    - title: Contributing
+      url: /contributing.html
+      output: web, pdf
+      
     - title: Documenting Your Maker Event
       url: /documenting_your_event.html
       output: web, pdf
