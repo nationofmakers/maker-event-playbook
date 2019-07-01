@@ -41,10 +41,14 @@ entries:
     folderitems:
 
     - title: Large Maker Events
-      url: /events_type_large_maker.html
+      url: /event_type_large.html
       output: web, pdf
 
-    - title: Makerspace Events
-      url: /event_type_makerspace.html
+    - title: Medium Maker Events
+      url: /event_type_medium.html
+      output: web, pdf
+      
+    - title: Small Maker Events
+      url: /event_type_small.html
       output: web, pdf
 
