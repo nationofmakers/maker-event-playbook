@@ -28,3 +28,10 @@ feedback_email: ian.cole@themakereffect.org
 # feedback_link: "http://helpy.io/"
 # if you uncomment the previous line, it changes where the feedback link points to
 
+sidebars:
+- home_sidebar
+- large_event_sidebar
+- makerspace_event_sidebar
+
+description: "A guide for producing Maker Events, brought to you by the community of maker event producers within Nation of Makers."
+# the description is used in the feed.xml file
