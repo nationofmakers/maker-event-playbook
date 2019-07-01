@@ -19,26 +19,40 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
+  - title: Marketing
     output: web, pdf
     folderitems:
 
-    - title: Get started
-      url: /index.html
+    - title: Social Media
+      url: /event_type_large.html
       output: web, pdf
       type: homepage
 
-    - title: Collaborators
+    - title: Public Relations
       url: /collaborators.html
       output: web, pdf
 
-    - title: Contributing
+    - title: Outreach Events
       url: /contributing.html
       output: web, pdf
-      
-    - title: Create a Playbook for your Maker Event
-      url: /document_your_event.html
+
+  - title: Volunteer Management
+    output: web, pdf
+    folderitems:
+
+    - title: Recruiting Volunteers
+      url: /event_type_large.html
       output: web, pdf
+      type: homepage
+
+    - title: Training Volunteers
+      url: /collaborators.html
+      output: web, pdf
+
+    - title: Volunteer Management Systems
+      url: /contributing.html
+      output: web, pdf
+
 
   - title: Event Guides by Size
     output: web, pdf
