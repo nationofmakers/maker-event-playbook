@@ -36,8 +36,8 @@ entries:
       url: /contributing.html
       output: web, pdf
       
-    - title: Documenting Your Maker Event
-      url: /documenting_your_event.html
+    - title: Create a Guide for your Maker Event
+      url: /document_your_event.html
       output: web, pdf
 
   - title: Event Guides by Size
