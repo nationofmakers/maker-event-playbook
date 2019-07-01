@@ -7,7 +7,7 @@ permalink: contributing.html
 summary: You can contribute to this playbook by adding to the playbook overview OR by documenting your own event.
 ---
 
-NOTE, WE ARE NOT READY FOR YOU TO DO THIS, BUT WANTED TO CREATE THIS PAGE :)
+{% include warning.html content = "NOTE, WE ARE NOT READY FOR YOU TO DO THIS, BUT WANTED TO CREATE THIS PAGE :)" %}
 
 ## Contribute to the playbook overview sections  
 This playbook has both an overview context and documentation from specific events. Use the steps below to contribute to the overview sections.
