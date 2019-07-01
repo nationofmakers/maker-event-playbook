@@ -1,0 +1,57 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Large Event Guide
+  version: (MEP v0.1)
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Get started
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: Collaborators
+      url: /collaborators.html
+      output: web, pdf
+
+    - title: Contributing
+      url: /contributing.html
+      output: web, pdf
+      
+    - title: Create a Playbook for your Maker Event
+      url: /document_your_event.html
+      output: web, pdf
+
+  - title: Event Guides by Size
+    output: web, pdf
+    folderitems:
+
+    - title: Large Maker Event Guide
+      url: /event_type_large.html
+      output: web, pdf
+
+    - title: Medium Maker Event Guide
+      url: /event_type_medium.html
+      output: web, pdf
+      
+    - title: Small Maker Event Guide
+      url: /event_type_small.html
+      output: web, pdf
