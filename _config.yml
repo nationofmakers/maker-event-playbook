@@ -14,4 +14,17 @@ site_title: Maker Event Playbook
 company_name: Nation of Makers
 # this appears in the footer
 
+feedback_subject_line: Maker Event Playbook
+
+feedback_email: ian.cole@themakereffect.org
+# used as a contact email for the Feedback link in the top navigation bar
+
+# feedback_disable: true
+# if you uncomment the previous line, the Feedback link gets removed
+
+# feedback_text: "Need help?"
+# if you uncomment the previous line, it changes the Feedback text
+
+# feedback_link: "http://helpy.io/"
+# if you uncomment the previous line, it changes where the feedback link points to
 
