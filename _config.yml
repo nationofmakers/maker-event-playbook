@@ -28,6 +28,17 @@ feedback_email: ian.cole@themakereffect.org
 # feedback_link: "http://helpy.io/"
 # if you uncomment the previous line, it changes where the feedback link points to
 
+highlighter: rouge
+# library used for syntax highlighting
+
+markdown: kramdown
+kramdown:
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
+ syntax_highlighter: rouge
+ 
+
 sidebars:
 - home_sidebar
 - large_event_sidebar
