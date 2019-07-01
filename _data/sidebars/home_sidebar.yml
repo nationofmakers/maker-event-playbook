@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: Maker Event Playbook Prototype
+  product: Maker Event Playbook
   version: 0.1
   folders:
 
@@ -36,8 +36,8 @@ entries:
       url: /mydoc_supported_features.html
       output: web, pdf
 
-    - title: About the theme author
-      url: /mydoc_about.html
+    - title: Collaborators
+      url: /collaborators.html
       output: web, pdf
 
     - title: Support
