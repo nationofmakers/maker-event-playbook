@@ -2,7 +2,7 @@
 title: Large Maker Events
 keywords: homepage
 tags: [getting_started]
-sidebar: home_sidebar
+sidebar: large_event_sidebar
 permalink: event_type_large.html
 summary: This guide will help you plan a large maker event.
 ---
