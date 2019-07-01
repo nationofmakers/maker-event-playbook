@@ -79,7 +79,9 @@ defaults:
 sidebars:
 - home_sidebar
 - large_event_sidebar
-- makerspace_event_sidebar
+- medium_event_sidebar
+- small_event_sidebar
+
 
 description: "A guide for producing Maker Events, brought to you by the community of maker event producers within Nation of Makers."
 # the description is used in the feed.xml file
