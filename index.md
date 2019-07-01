@@ -4,7 +4,7 @@ keywords: homepage
 tags: [getting_started]
 sidebar: home_sidebar
 permalink: index.html
-summary: Welcome to the Maker Event Playbook for Large Events. This guide will help you plan a large maker event and to learn from the experience of other maker mvent producers.
+summary: This guide will help you plan a large maker event and to learn from the experience of other maker mvent producers.
 ---
 
 
