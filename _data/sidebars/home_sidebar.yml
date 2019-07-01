@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: Maker Event Playbook
-  version: 0.1
+  product: Home
+  version: MEP0.1
   folders:
 
   - title:
@@ -36,7 +36,7 @@ entries:
       url: /contributing.html
       output: web, pdf
       
-    - title: Create a Guide for your Maker Event
+    - title: Create a Playbook for your Maker Event
       url: /document_your_event.html
       output: web, pdf
 
