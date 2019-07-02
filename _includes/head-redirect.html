@@ -1,4 +1,11 @@
 {% unless site.url contains "nationofmakers.github.io" %}
-<meta http-equiv="refresh" content="0;URL='https://nationofmakers.github.io/maker-event-playbook/new-fork.html'" />
-<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+    
+    {% if site.event-guide And site.event-guide != "" And site.event-guide != nil %}
+        {% assign event = site.events | where: "event-id", site.event-guide %}
+        <meta http-equiv="refresh" content="0;URL='{{ event.url | prepend: site.baseurl }}'" />
+    {% else %}
+        <meta http-equiv="refresh" content="0;URL='https://nationofmakers.github.io/maker-event-playbook/new-fork.html'" />
+        <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+    {% endif %}
+      
 {% endunless %}
