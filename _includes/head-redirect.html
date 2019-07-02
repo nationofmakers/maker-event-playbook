@@ -1,11 +1,17 @@
-{% unless site.url contains "nationofmakers.github.io" %}
-    
-    {% if site.event-guide And site.event-guide != "" And site.event-guide != nil %}
+{% comment %}
+If the _config.yaml "event-guide" variable is set, we will redirect to that guide as the starting point for the root
+There may be a more elegant way to do this by conditional branching for the build, but this is what I have for now...
+{% endcomment %}
+
+{% if site.event-guide And site.event-guide != "" And site.event-guide != nil %}
+        <!-- event-guide:{% site.event-guide %} -->
         {% assign event = site.events | where: "event-id", site.event-guide %}
         <meta http-equiv="refresh" content="0;URL='{{ event.url | prepend: site.baseurl }}'" />
-    {% else %}
-        <meta http-equiv="refresh" content="0;URL='https://nationofmakers.github.io/maker-event-playbook/new-fork.html'" />
-        <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-    {% endif %}
-      
-{% endunless %}
+
+        {% unless site.url contains "nationofmakers.github.io" %}
+            <meta http-equiv="refresh" content="0;URL='https://nationofmakers.github.io/maker-event-playbook/new-fork.html'" />
+            <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+        {% endunless %}
+
+{% endif %}
+
