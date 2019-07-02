@@ -40,7 +40,7 @@ Wondering why this isn't a Wiki or a Google Doc? Someone should create a page to
 
 <div class="maker-events">
     <ul class="listing">
-        {% assign events = site.events %}
+        {% assign events = site.events | sort: 'name' %}
         {% for event in events %}
         <li>
             <h2><a href="{{ event.url }}">{{ event.name }}</a></h2>
