@@ -41,6 +41,10 @@ kramdown:
  hard_wrap: false
  syntax_highlighter: rouge
  
+collections:
+  events:
+    output: true
+
 defaults:
   -
     scope:
