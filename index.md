@@ -27,7 +27,7 @@ The [small event guide](event_type_small.html) is for events with a few makers a
 This playbook is a project created and maintained by the maker event producers that are part of the (Nation of Makers)[http://www.nationofmakers.us] community. We need your contributions to extend it to be a world-class resource for maker event producers!
 
 ### Contribute to the Maker Event Playbook
-Want to contribute to the overall playbook? - [learn how to contribute](contribute.html)
+Want to contribute to the overall playbook? - [learn how to contribute](contributing.html)
 
 ### Create a Playbook for your Maker Event
 You can easily create a playbook for your event - [learn how to create your own playbook](document_your_event.html)
@@ -43,7 +43,7 @@ Wondering why this isn't a Wiki or a Google Doc? Someone should create a page to
         {% assign events = site.events | sort: 'name' %}
         {% for event in events %}
         <li>
-            <h2><a href="{{ site.url }}">{{ event.name }}</a></h2>
+            <h2><a href="{{ event.url }}">{{ event.name }}</a></h2>
             {{ event.content }}
         </li>
         {% endfor %}
