@@ -43,7 +43,7 @@ Wondering why this isn't a Wiki or a Google Doc? Someone should create a page to
         {% assign events = site.events | sort: 'name' %}
         {% for event in events %}
         <li>
-            <h2><a href="{{ event.url }}">{{ event.name }}</a></h2>
+            <h2><a href="{{ event.url | prepend: site.baseurl }}">{{ event.name }}</a></h2>
             {{ event.content }}
         </li>
         {% endfor %}
