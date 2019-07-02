@@ -80,7 +80,7 @@ defaults:
       path: ""
       type: "events"
     values:
-      layout: "page"
+      layout: "events"
       comments: false
       search: true
       tooltip: true
