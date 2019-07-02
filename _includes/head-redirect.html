@@ -4,7 +4,6 @@ There may be a more elegant way to do this by conditional branching for the buil
 {% endcomment %}
 
 {% if site.event-guide And site.event-guide != "" And site.event-guide != nil %}
-        <!-- event-guide:{% site.event-guide %} -->
         {% assign event = site.events | where: "event-id", site.event-guide %}
         <meta http-equiv="refresh" content="0;URL='{{ event.url | prepend: site.baseurl }}'" />
 
