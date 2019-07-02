@@ -7,8 +7,8 @@ There may be a more elegant way to do this by conditional branching for the buil
 <!-- site event_guide: {{ site.event_guide }} -->
 
 {% if site.event_guide And site.event_guide != "" And site.event_guide != nil %}
-        {% assign event = site.events | where: "event-id", site.event_guide %}
-        <!-- event.url: {{ event.url }} -->
+        {% assign eg-event = site.events | where: "event-id", "mforlando" %}
+        <!-- eg-event.url: {{ eg-event.url }} -->
 
         {% comment %}        
         <meta http-equiv="refresh" content="0;URL='{{ event.url | prepend: site.baseurl }}'" />
