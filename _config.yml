@@ -42,7 +42,8 @@ kramdown:
  syntax_highlighter: rouge
  
 collections:
- events 
+ events:
+  output: true
  
 defaults:
   -
