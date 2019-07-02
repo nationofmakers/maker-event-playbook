@@ -41,10 +41,13 @@ kramdown:
  hard_wrap: false
  syntax_highlighter: rouge
  
+<<<<<<< HEAD
 collections:
  events:
   output: true
  
+=======
+>>>>>>> parent of 2e8b76b... Adding defaults for event object
 defaults:
   -
     scope:
@@ -56,17 +59,7 @@ defaults:
       search: true
       sidebar: home_sidebar
       topnav: topnav
- -  
-   scope:
-      path: ""
-      type: "events"
-    values:
-      layout: "page"
-      comments: false
-      search: true
-      tooltip: true
-  
- -
+  -
     scope:
       path: ""
       type: "tooltips"
@@ -104,4 +97,5 @@ theme: jekyll-theme-time-machine
 
 baseurl: /maker-event-playbook
 
-
+collections:
+ events
