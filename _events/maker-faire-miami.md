@@ -1,7 +1,7 @@
 ---
 event-id:         mfmiami
 name:             Maker Faire Miami
-url:              miami.makerfaire.com
+website:              miami.makerfaire.com
 email:            Mario@MarioTheMaker.com
 next-dates-text:  TBD 2020
 featured:         true
