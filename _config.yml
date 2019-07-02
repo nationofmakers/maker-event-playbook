@@ -52,8 +52,7 @@ defaults:
       search: true
       sidebar: home_sidebar
       topnav: topnav
-  
- -
+  -
     scope:
       path: ""
       type: "tooltips"
@@ -62,7 +61,6 @@ defaults:
       comments: true
       search: true
       tooltip: true
-
   -
     scope:
       path: ""
