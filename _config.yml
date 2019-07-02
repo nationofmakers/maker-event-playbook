@@ -41,10 +41,6 @@ kramdown:
  hard_wrap: false
  syntax_highlighter: rouge
  
-collections:
- events:
-  output: true
- 
 defaults:
   -
     scope:
@@ -56,15 +52,6 @@ defaults:
       search: true
       sidebar: home_sidebar
       topnav: topnav
- -  
-   scope:
-      path: ""
-      type: "events"
-    values:
-      layout: "page"
-      comments: false
-      search: true
-      tooltip: true
   
  -
     scope:
