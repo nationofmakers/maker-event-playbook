@@ -3,6 +3,8 @@ If the _config.yaml "event-guide" variable is set, we will redirect to that guid
 There may be a more elegant way to do this by conditional branching for the build, but this is what I have for now...
 {% endcomment %}
 
+site.event-guide
+
 {% if site.event-guide And site.event-guide != "" And site.event-guide != nil %}
         {% assign event = site.events | where: "event-id", site.event-guide %}
         <meta http-equiv="refresh" content="0;URL='{{ event.url | prepend: site.baseurl }}'" />
