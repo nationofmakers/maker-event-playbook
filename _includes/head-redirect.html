@@ -6,10 +6,13 @@ There may be a more elegant way to do this by conditional branching for the buil
 <!-- site url: {{ site.url }} -->
 <!-- site event_guide: {{ site.event_guide }} -->
 
-
 {% if site.event_guide And site.event_guide != "" And site.event_guide != nil %}
         {% assign event = site.events | where: "event-id", site.event_guide %}
+        <!-- event.url: {{ event.url }} -->
+
+        {% comment %}        
         <meta http-equiv="refresh" content="0;URL='{{ event.url | prepend: site.baseurl }}'" />
+        {% endcomment %}
 
         {% unless site.url contains "nationofmakers.github.io" %}
             <meta http-equiv="refresh" content="0;URL='https://nationofmakers.github.io/maker-event-playbook/new-fork.html'" />
