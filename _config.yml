@@ -89,3 +89,6 @@ description: "A guide for producing Maker Events, brought to you by the communit
 theme: jekyll-theme-time-machine
 
 baseurl: /maker-event-playbook
+
+collections:
+ events
