@@ -1,5 +1,9 @@
 remote_theme: tomjoht/documentation-theme-jekyll@gh-pages
 
+#enable local builds using remote theme
+plugins:
+  - jekyll-remote-teme
+
 repository: nationofmakers/maker-event-playbook
 
 output: web
@@ -106,3 +110,5 @@ baseurl: /maker-event-playbook
 url: https://nationofmakers.github.io/maker-event-playbook
 
 event_guide: mforlando
+
+
