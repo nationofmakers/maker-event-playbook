@@ -40,19 +40,13 @@ entries:
       url: /document_your_event.html
       output: web, pdf
 
-  - title: Event Guides by Size
+  - title: Social Events
     output: web, pdf
     folderitems:
 
-    - title: Large Event Guide
-      url: /event_type_large.html
+    - title: Socializing Events Overview
+      url: /makers_socializing.html
       output: web, pdf
+      type: homepage
 
-    - title: Medium Event Guide
-      url: /event_type_medium.html
-      output: web, pdf
-      
-    - title: Small Event Guide
-      url: /event_type_small.html
-      output: web, pdf
 

@@ -95,9 +95,8 @@ defaults:
 
 sidebars:
 - home_sidebar
-- large_event_sidebar
-- medium_event_sidebar
-- small_event_sidebar
+- makers_socializing_sidebar
+
 
 
 description: "A guide for producing Maker Events, brought to you by the community of maker event producers within Nation of Makers."

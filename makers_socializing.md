@@ -1,10 +1,10 @@
 ---
-title: Medium Maker Events
+title: Makers getting together for Socializing
 keywords: homepage
 tags: [getting_started]
-sidebar: home_sidebar
-permalink: event_type_medium.html
-summary: This guide will help you plan a medium maker event.
+sidebar: makers_socializing_sidebar
+permalink: makers_socializing.html
+summary: This guide will help you plan socializing events.
 ---
 
 ## Heading  

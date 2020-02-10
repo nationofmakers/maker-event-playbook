@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: Large Event Guide
+  product: Makers Socializing Guide
   version: 
   folders:
 
@@ -89,21 +89,4 @@ entries:
 
     - title: Volunteer Management Systems
       url: /contributing.html
-      output: web, pdf
-
-
-  - title: Event Guides by Size
-    output: web, pdf
-    folderitems:
-
-    - title: Large Event Guide
-      url: /event_type_large.html
-      output: web, pdf
-
-    - title: Medium Event Guide
-      url: /event_type_medium.html
-      output: web, pdf
-      
-    - title: Small Event Guide
-      url: /event_type_small.html
       output: web, pdf

@@ -8,16 +8,16 @@ summary: This guide will help you plan a maker event and to learn from the exper
 ---
 
 ## Maker Event Guides
-Maker events come in all shapes & sizes - so we've separated this playbook into three guides by event size to help you learn from other events that are similar in scope and size to your planned event.
+Maker events come in all shapes & sizes - so we've separated this playbook into three guides by event type to help you learn from other events that are similar in scope to your planned event.
 
-### Large Maker Events
-The [large event guide](event_type_large.html) is for events with hundreds of makers / maker exhibits and thousands of attendees. Most commonly this is a multi-day Maker Faire or Maker Festival type of event.
+### Makers getting together for Socializing
+The [large event guide](makers_socializing.html) is for events with hundreds of makers / maker exhibits and thousands of attendees. Most commonly this is a multi-day Maker Faire or Maker Festival type of event.
 
-###  Medium Maker Events
+###  Makers going into the community
 The [medium event guide](event_type_medium.html) is for events with dozens of makers / maker exhibits and hundreds of attendees
 Most commonly this is a single-day Maker Faire or Maker Festival type of event.
 
-### Small Maker Events
+### Makers hosting a Making Event
 The [small event guide](event_type_small.html) is for events with a few makers and dozens of attendees. Most commonly this is a makerspace event. 
 
 
