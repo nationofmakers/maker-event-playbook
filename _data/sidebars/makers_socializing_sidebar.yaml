@@ -54,7 +54,7 @@ entries:
       output: web, pdf
 
     - title: Nerdy Derby
-      url: /contributing.html
+      url: /contributing.html`
       output: web, pdf
       
   - title: Marketing
