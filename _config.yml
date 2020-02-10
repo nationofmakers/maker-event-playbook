@@ -96,6 +96,7 @@ defaults:
 sidebars:
 - home_sidebar
 - makers_socializing_sidebar
+- makers_hosting_making_sidebar.yaml
 
 
 
