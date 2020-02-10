@@ -13,12 +13,12 @@ Maker events come in all shapes & sizes - so we've separated this playbook into 
 ### Makers getting together for Socializing
 The [large event guide](makers_socializing.html) is for events with hundreds of makers / maker exhibits and thousands of attendees. Most commonly this is a multi-day Maker Faire or Maker Festival type of event.
 
-###  Makers going into the community
-The [medium event guide](event_type_medium.html) is for events with dozens of makers / maker exhibits and hundreds of attendees
+###  Makers going into the Community
+The [medium event guide](makers_going_into_community.html) is for events with dozens of makers / maker exhibits and hundreds of attendees
 Most commonly this is a single-day Maker Faire or Maker Festival type of event.
 
 ### Makers hosting a Making Event
-The [small event guide](event_type_small.html) is for events with a few makers and dozens of attendees. Most commonly this is a makerspace event. 
+The [small event guide](makers_hosting_making.html) is for events with a few makers and dozens of attendees. Most commonly this is a makerspace event. 
 
 
 

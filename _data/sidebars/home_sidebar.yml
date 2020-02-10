@@ -57,3 +57,12 @@ entries:
       url: /makers_hosting_making.html
       output: web, pdf
       type: homepage
+
+  - title: Makers Going Into Community
+    output: web, pdf
+    folderitems:
+
+    - title: Making with Community Overview
+      url: /makers_going_into_community.html
+      output: web, pdf
+      type: homepage
