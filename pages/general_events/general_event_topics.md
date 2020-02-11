@@ -4,7 +4,7 @@ keywords: homepage
 tags: [getting_started]
 sidebar: general_topics_sidebar
 permalink: general_event_topics.html
-summary: This guide will help you plan events and activities when going into the community.
+summary: This section covers general topics that apply to all events.
 ---
 
 ## Heading  
