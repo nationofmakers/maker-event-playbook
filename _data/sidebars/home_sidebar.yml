@@ -40,19 +40,38 @@ entries:
       url: /document_your_event.html
       output: web, pdf
 
-  - title: Event Guides by Size
+  - title: Social Events
     output: web, pdf
     folderitems:
 
-    - title: Large Event Guide
-      url: /event_type_large.html
+    - title: Socializing Events Overview
+      url: /makers_socializing.html
       output: web, pdf
+      type: homepage
 
-    - title: Medium Event Guide
-      url: /event_type_medium.html
-      output: web, pdf
-      
-    - title: Small Event Guide
-      url: /event_type_small.html
-      output: web, pdf
+  - title: Makers Hosting Making Events
+    output: web, pdf
+    folderitems:
 
+    - title: Making Events Overview
+      url: /makers_hosting_making.html
+      output: web, pdf
+      type: homepage
+
+  - title: Makers Going Into Community
+    output: web, pdf
+    folderitems:
+
+    - title: Making with Community Overview
+      url: /makers_going_into_community.html
+      output: web, pdf
+      type: homepage
+
+  - title: General Event Topics
+    output: web, pdf
+    folderitems:
+
+    - title: General Event Topics Overview
+      url: /general_event_topics.html
+      output: web, pdf
+      type: homepage

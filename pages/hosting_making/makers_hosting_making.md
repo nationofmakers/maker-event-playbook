@@ -1,10 +1,10 @@
 ---
-title: Medium Maker Events
+title: Makers hosting a Making Event
 keywords: homepage
 tags: [getting_started]
-sidebar: home_sidebar
-permalink: event_type_medium.html
-summary: This guide will help you plan a medium maker event.
+sidebar: makers_hosting_making_sidebar
+permalink: makers_hosting_making.html
+summary: This guide will help you plan making based events.
 ---
 
 ## Heading  

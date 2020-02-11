@@ -95,9 +95,11 @@ defaults:
 
 sidebars:
 - home_sidebar
-- large_event_sidebar
-- medium_event_sidebar
-- small_event_sidebar
+- makers_socializing_sidebar
+- makers_hosting_making_sidebar
+- makers_community_events_sidebar
+- general_topics_sidebar
+
 
 
 description: "A guide for producing Maker Events, brought to you by the community of maker event producers within Nation of Makers."
@@ -109,6 +111,6 @@ baseurl: /maker-event-playbook
 
 url: https://nationofmakers.github.io/maker-event-playbook
 
-event_guide: mforlando
+event_guide: 
 
 

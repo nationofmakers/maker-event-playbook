@@ -1,10 +1,10 @@
 ---
-title: Large Maker Events
+title: General Event Topics
 keywords: homepage
 tags: [getting_started]
-sidebar: large_event_sidebar
-permalink: event_type_large.html
-summary: This guide will help you plan a large maker event.
+sidebar: general_topics_sidebar
+permalink: general_event_topics.html
+summary: This guide will help you plan events and activities when going into the community.
 ---
 
 ## Heading  
@@ -18,5 +18,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lect
 
 ### 3. Heading 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-
