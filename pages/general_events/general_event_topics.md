@@ -1,9 +1,9 @@
 ---
-title: Makers going into the Community
+title: General Event Topics
 keywords: homepage
 tags: [getting_started]
-sidebar: makers_community_events_sidebar
-permalink: makers_going_into_community.html
+sidebar: general_topics_sidebar
+permalink: general_event_topics.html
 summary: This guide will help you plan events and activities when going into the community.
 ---
 

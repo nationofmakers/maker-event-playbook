@@ -66,3 +66,12 @@ entries:
       url: /makers_going_into_community.html
       output: web, pdf
       type: homepage
+
+  - title: General Event Topics
+    output: web, pdf
+    folderitems:
+
+    - title: General Event Topics Overview
+      url: /general_event_topics.html
+      output: web, pdf
+      type: homepage
