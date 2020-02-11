@@ -11,15 +11,13 @@ summary: This guide will help you plan a maker event and to learn from the exper
 Maker events come in all shapes & sizes - so we've separated this playbook into three guides by event type to help you learn from other events that are similar in scope to your planned event.
 
 ### Makers getting together for Socializing
-The [large event guide](makers_socializing.html) is for events with hundreds of makers / maker exhibits and thousands of attendees. Most commonly this is a multi-day Maker Faire or Maker Festival type of event.
+[Social events](makers_socializing.html) are not specifically about making things, but serve as a way to build and strengthen the Maker Community. Often it’s about connecting and sharing with other makers in a social setting. These may be networing events, or considered gatherings or relationship building.
 
 ###  Makers going into the Community
-The [medium event guide](makers_going_into_community.html) is for events with dozens of makers / maker exhibits and hundreds of attendees
-Most commonly this is a single-day Maker Faire or Maker Festival type of event.
+Bringing the passion for [making out into the world and sharing it](makers_going_into_community.html) with others is an important aspect of the Maker Community. This might include making or sharing at an event that someone else is organizing and hosting but you are just taking part in.
 
 ### Makers hosting a Making Event
-The [small event guide](makers_hosting_making.html) is for events with a few makers and dozens of attendees. Most commonly this is a makerspace event. 
-
+A [Maker Event](makers_hosting_making.html) would include hands-on making or sharing of things people have made where you are organizing and producing the event and responsible for all that hosting entails.
 
 
 
