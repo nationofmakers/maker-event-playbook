@@ -36,7 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lect
 * Eventbrite
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
 
-* [Brown Paper Tickets] (https://www.brownpapertickets.com/) 
+* [Brown Paper Tickets](https://www.brownpapertickets.com/) 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
 
 ***
