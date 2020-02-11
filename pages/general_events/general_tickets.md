@@ -27,17 +27,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lect
 ## Ticketing Technology 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
 
-* Paper
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
+* Paper - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
 
-* Google Sheets
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
+* Google Forms + Sheets - you can create a simple registration form that collects RSVPs, and then each RSVP will be a row in a Google Sheet which you can then annotate with additional information. Free & quick... [Check out this online guide](https://www.guidingtech.com/create-rsvp-form-google-forms/)
 
-* Eventbrite
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
+* [Eventbrite](https://www.eventbrite.com) - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
 
-* [Brown Paper Tickets](https://www.brownpapertickets.com/) 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
+* [Brown Paper Tickets](https://www.brownpapertickets.com/) - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
 
 ***
 
