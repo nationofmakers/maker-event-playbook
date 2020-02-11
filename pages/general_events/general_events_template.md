@@ -7,14 +7,26 @@ permalink: general_event_topics_template.html
 summary: THIS IS A TEMPLATE, PLEASE UPDATE :)
 ---
 
-## Heading  
+## Topic 1  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
 
-### 1. Heading
+### 1. SubTopic 1
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
 
 ###  2. Heading
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
 
 ### 3. Heading 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
+
+## Resources 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
+
+### 1. Examples
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
+
+###  2. Other Guides
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
+
+### 3. General Links 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
