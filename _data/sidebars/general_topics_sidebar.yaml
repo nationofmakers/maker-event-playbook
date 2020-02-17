@@ -6,22 +6,23 @@ entries:
   version: 
   folders:
 
-  - title:
-    output: pdf
-    type: frontmatter
+  - title: Home
+    output: web, pdf
     folderitems:
-    - title:
-      url: /titlepage.html
-      output: pdf
-      type: frontmatter
-    - title:
-      url: /tocpage.html
-      output: pdf
-      type: frontmatter
+
+    - title: Home
+      url: /index.html
+      output: web, pdf
+      type: homepage
 
   - title: Topics
     output: web, pdf
     folderitems:
+
+    - title: Overview
+      url: general_event_topics.html
+      output: web, pdf
+      type: homepage
 
     - title: Tickets
       url: /general_tickets.html

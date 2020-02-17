@@ -35,10 +35,6 @@ entries:
     - title: Contributing
       url: /contributing.html
       output: web, pdf
-      
-    - title: Create a Playbook for your Maker Event
-      url: /document_your_event.html
-      output: web, pdf
 
   - title: Social Events
     output: web, pdf
