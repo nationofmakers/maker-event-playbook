@@ -27,3 +27,8 @@ entries:
       url: /general_tickets.html
       output: web, pdf
       type: homepage
+
+    - title: Radio
+      url: /general_radios.html
+      output: web, pdf
+      type: homepage
