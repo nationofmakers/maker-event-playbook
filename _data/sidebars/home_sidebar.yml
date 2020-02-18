@@ -94,6 +94,86 @@ entries:
       output: web, pdf
       type: homepage
 
+    - title: Build Competitions
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Maker Camps (kid based)
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Workshops for kids
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Make and Takes
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Fundraisers (Build to Bid)
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Meeting Location/Meetups (for other groups)
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Working on the makerspace itself
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Makerspace Classes
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Maker Faire and Maker Fests (show and tells)
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Maker Markets/(M)Swap Meet
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Maker Conference
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Community Build
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Make-A-Thon/Hackathon/Game Jam
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Maker Art Gallery (Maker takeover of art gallery)
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Recovery/Support location (think after disasters)
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Open house / open night / open make
+      url: /#
+      output: web, pdf
+      type: homepage
+
   - title: Makers Going Into Community
     output: web, pdf
     folderitems:
