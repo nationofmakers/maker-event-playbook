@@ -2,7 +2,7 @@
 title: Radios
 keywords: general
 tags:
-sidebar: general_topics_sidebar
+sidebar: home_sidebar
 permalink: general_radios.html
 summary: General event information related to tickets, RSVPs, and attendee tracking
 ---

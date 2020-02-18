@@ -2,7 +2,7 @@
 title: Makers going into the Community
 keywords: homepage
 tags: [getting_started]
-sidebar: makers_community_events_sidebar
+sidebar: home_sidebar
 permalink: makers_going_into_community.html
 summary: This guide will help you plan events and activities when going into the community.
 ---

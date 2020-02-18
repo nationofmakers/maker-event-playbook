@@ -71,3 +71,13 @@ entries:
       url: /general_event_topics.html
       output: web, pdf
       type: homepage
+
+    - title: Tickets
+      url: /general_tickets.html
+      output: web, pdf
+      type: homepage
+
+    - title: Radio
+      url: /general_radios.html
+      output: web, pdf
+      type: homepage

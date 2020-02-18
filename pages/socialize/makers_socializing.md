@@ -2,7 +2,7 @@
 title: Makers getting together for Socializing
 keywords: homepage
 tags: [getting_started]
-sidebar: makers_socializing_sidebar
+sidebar: home_sidebar
 permalink: makers_socializing.html
 summary: This guide will help you plan socializing events.
 ---
