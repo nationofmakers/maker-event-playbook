@@ -45,6 +45,46 @@ entries:
       output: web, pdf
       type: homepage
 
+    - title: Socials (includes parties)
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Meetups / Maker Meetups
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Festivals
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Game Night
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Birthday Party
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Field Trips (visiting other places)
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Events (that someone else is putting on)
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Maker Conference (Speakers/Presentations/Ignite/BarCamp)
+      url: /#
+      output: web, pdf
+      type: homepage
+      
   - title: Makers Hosting Making Events
     output: web, pdf
     folderitems:
@@ -79,5 +119,49 @@ entries:
 
     - title: Radio
       url: /general_radios.html
+      output: web, pdf
+      type: homepage
+
+    - title: Budget
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: 21+ Events
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Sponsorship
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Safety / Security
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Tickets
+      url: /#
+      output: web, pdf
+      type: homepage
+
+
+  - title: Event Listings
+    output: web, pdf
+    folderitems:
+
+    - title: Place Holder for Event Lists
+      url: /#
+      output: web, pdf
+      type: homepage
+
+  - title: Issues that Will Come Up
+    output: web, pdf
+    folderitems:
+
+    - title: Place Holder for Issues that Will Come Up
+      url: /#
       output: web, pdf
       type: homepage
