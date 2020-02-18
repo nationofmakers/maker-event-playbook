@@ -84,7 +84,7 @@ entries:
       url: /#
       output: web, pdf
       type: homepage
-      
+
   - title: Makers Hosting Making Events
     output: web, pdf
     folderitems:
@@ -100,6 +100,41 @@ entries:
 
     - title: Making with Community Overview
       url: /makers_going_into_community.html
+      output: web, pdf
+      type: homepage
+
+    - title: Building Competitions
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: PPPRS Event
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Maker Camps (kid-based)
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Workshops for Kids
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Make and Takes
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Maker Meetups
+      url: /#
+      output: web, pdf
+      type: homepage
+
+    - title: Community Build
+      url: /#
       output: web, pdf
       type: homepage
 
