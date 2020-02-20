@@ -73,7 +73,7 @@ Want to contribute to the overall playbook? - [learn how to contribute](contribu
 You can easily create a playbook for your event - [learn how to create your own playbook](document_your_event.html)
 
 ### Why GitHub?
-Wondering why this isn't a Wiki or a Google Doc? Someone should create a page to explain this!
+Wondering why this isn't a Wiki or a Google Doc? [Learn why we chose to build the Maker Event Playbook using GitHub...](why_github.html)
 
 
 ## Maker Events
@@ -91,5 +91,3 @@ Wondering why this isn't a Wiki or a Google Doc? Someone should create a page to
 </div>
 
 Last change: {{ site.time }}
-
-

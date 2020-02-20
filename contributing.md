@@ -9,6 +9,8 @@ summary: You can contribute to this playbook by adding to the playbook overview 
 
 {% include warning.html content = "NOTE, WE ARE NOT READY FOR YOU TO DO THIS, BUT WANTED TO CREATE THIS PAGE :)" %}
 
+### Please start by reading ["Why GitHub"](why_github.html) to learn why we chose GitHub and GitHub pages for the Maker Event Playbook and how we are organizing the project using Open Source software principles
+
 ## Contribute to the playbook overview sections  
 This playbook has both an overview context and documentation from specific events. Use the steps below to contribute to the overview sections.
 
