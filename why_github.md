@@ -43,7 +43,7 @@ GitHub offers a number of features for Software development - and if we treat ou
 We need a safe place to store all our playbook files, and we need to track changes. A GitHub "repository" stores all the files in a folder structure and all changes are tracked (and can be undone!)
 
 #### 2. GitHub Pages
-GitHub has a built-in way to share documentation as web pages called []"GitHub Pages"](https://pages.github.com/). If you create your documentation in a specific way, GitHub will automatically update the web pages as you change the documentation.
+GitHub has a built-in way to share documentation as web pages called ["GitHub Pages"](https://pages.github.com/). If you create your documentation in a specific way, GitHub will automatically update the web pages as you change the documentation.
 
 #### 3. Tracking of issues
 GitHub tracks "issues" which can be assigned to specific contributors, tagged with extra information, and statused as work progresses to resolve the "issue". While "issue" may sound bad, these are really tasks which can be created to track a new item, or to track a problem that must be resolved.
