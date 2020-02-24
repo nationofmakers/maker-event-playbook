@@ -1,0 +1,15 @@
+---
+title: Setup Time / Strike Time
+keywords: General Topics
+tags: [getting_started]
+sidebar: general_topics_sidebar
+permalink: setup_strike_time.html
+summary: You'll need time before and after your event for set-up and tear-down...
+---
+
+
+If you have an event that runs on a Saturday from 1pm to 5pm, you’ll need to determine how much time you need before and after the event to set everything up, and take everything down. As an event producer you’ll want to (and need to) be the first one on-site, and the last one to leave. To start with figure out what needs to be set up before the event. Will you be setting up tables and chairs, putting up signs, running extension cords and plugging things in? These things all take time, and they often tend to take longer than you think they will. You may have to send someone to the nearest store to buy more power strips, or tape, or something else you’ve forgotten about or have run out of unexpectedly. During setup it can be very important to delegate tasks. As a producer, your head is full of knowledge, and sometimes your most important job is to be available, to lead, and to solve problems. You may really care about signage, and making sure everything is hung in the location you imagined it, and that every sign is level, but you’re also working with limited time, and if you’re lucky, you have people willing to help. Setup is crunch time, and you often need to get a lot done in a small amount of time, so prioritize and delegate!
+
+If you have rental equipment, it should arrive during setup, and you or another producer may need to be the point person for rental drop-off. There’s nothing worse than a rental company dropping off 100 heavy wooden tables 500 meters from where you really need them and then having to round up crew and volunteers to carry them to their final destination. Setup and strike often involves lifting things and moving them to another location. It can be physically challenging, so remind people not to overexert or hurt themselves. Ask for help! Don’t be a hero. Team Lift!
+
+Strike, or the tear down and clean up of everything you set up before the event, often goes much faster that setup, maybe because everyone is pumped and full of energy from a successful event, or maybe because people really want to go home. While the things within your control often go faster, what sometimes goes slower is the picking up of anything you rented. Sometimes you’ve packed everything up, grabbed lunch, did a final sweep, and then you’re stuck waiting for the rigging crew to arrive at 4pm to take down the last banners. Also, while people tend to work fast during strike, you should try to avoid working carelessly. It’s easy to just toss things into boxes and bins, but making sure things go where they belong, and get labeled properly, can go a long way towards making your next even setup run smoothly.

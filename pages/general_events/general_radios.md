@@ -4,7 +4,7 @@ keywords: general
 tags:
 sidebar: home_sidebar
 permalink: general_radios.html
-summary: General event information related to tickets, RSVPs, and attendee tracking
+summary: General event information abut radios and radio communucation...
 ---
 
 
