@@ -287,7 +287,7 @@ entries:
     folderitems:
 
     - title: Place Holder for Event Lists
-      url: /#
+      url: /event_listing.html
       output: web, pdf
       type: homepage
 

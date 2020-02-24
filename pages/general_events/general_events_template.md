@@ -2,7 +2,7 @@
 title: General Event Topics Template
 keywords: homepage
 tags: 
-sidebar: 
+sidebar: home_sidebar
 permalink: general_event_topics_template.html
 summary: THIS IS A TEMPLATE, PLEASE UPDATE :)
 ---

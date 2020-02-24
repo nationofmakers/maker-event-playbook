@@ -2,7 +2,7 @@
 title: Code of Conduct
 keywords: General Topics
 tags: [getting_started]
-sidebar: general_topics_sidebar
+sidebar: home_sidebar
 permalink: code_of_conduct.html
 summary: Having a Code of Conduct for your event...
 ---
