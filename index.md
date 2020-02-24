@@ -76,18 +76,4 @@ You can easily create a playbook for your event - [learn how to create your own 
 Wondering why this isn't a Wiki or a Google Doc? [Learn why we chose to build the Maker Event Playbook using GitHub...](why_github.html)
 
 
-## Maker Events
-
-<div class="maker-events">
-    <ul class="listing">
-        {% assign events = site.events | sort: 'name' %}
-        {% for event in events %}
-        <li>
-            <h2><a href="{{ event.url | prepend: site.baseurl }}">{{ event.name }}</a></h2>
-            {{ event.content }}
-        </li>
-        {% endfor %}
-    </ul>
-</div>
-
 Last change: {{ site.time }}
