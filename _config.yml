@@ -2,7 +2,7 @@ remote_theme: tomjoht/documentation-theme-jekyll@gh-pages
 
 #enable local builds using remote theme
 plugins:
-  - jekyll-remote-teme
+  - jekyll-remote-theme
 
 repository: nationofmakers/maker-event-playbook
 
@@ -95,10 +95,6 @@ defaults:
 
 sidebars:
 - home_sidebar
-- makers_socializing_sidebar
-- makers_hosting_making_sidebar
-- makers_community_events_sidebar
-- general_topics_sidebar
 
 
 
@@ -110,7 +106,3 @@ theme: jekyll-theme-time-machine
 baseurl: /maker-event-playbook
 
 url: https://nationofmakers.github.io/maker-event-playbook
-
-event_guide: 
-
-

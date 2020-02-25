@@ -8,3 +8,6 @@ gem 'github-pages', group: :jekyll_plugins
 
 #to use remote theme
 gem "jekyll-remote-theme"
+gem "nokogiri", ">= 1.10.4"
+gem "rubyzip", ">= 1.3.0"
+gem "faraday", "< 1.0"
