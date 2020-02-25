@@ -252,11 +252,6 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Tickets
-      url: /#
-      output: web, pdf
-      type: homepage
-
     - title: Code of Conduct
       url: /code_of_conduct.html
       output: web, pdf
