@@ -228,7 +228,7 @@ entries:
       type: homepage
 
     - title: Tickets
-      url: /general_tickets.html
+      url: /general_tickets
       output: web, pdf
       type: homepage
 
