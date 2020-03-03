@@ -3,7 +3,7 @@ title: Tickets
 keywords: homepage
 tags:
 sidebar: home_sidebar
-permalink: general_tickets
+permalink: /general/tickets
 summary: General event information related to tickets, RSVPs, and attendee tracking
 ---
 
