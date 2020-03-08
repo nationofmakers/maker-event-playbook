@@ -228,7 +228,7 @@ entries:
       type: homepage
 
     - title: Tickets
-      url: general/tickets.html
+      url: general\/tickets
       output: web, pdf
       type: homepage
 
@@ -256,17 +256,17 @@ entries:
       url: /code_of_conduct.html
       output: web, pdf
       type: homepage
-
+      
     - title: Photo/Video Release
       url: /photo_video_release.html
       output: web, pdf
       type: homepage
-
+      
     - title: Event Technology
       url: /event_technology.html
       output: web, pdf
       type: homepage
-
+      
     - title: Setup Time / Strike Time
       url: /setup_strike_time.html
       output: web, pdf
