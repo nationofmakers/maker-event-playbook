@@ -64,7 +64,7 @@ A [Maker Event](makers_hosting_making.html) would include hands-on making or sha
 ---
 
 ## Learn More & Get Involved
-This playbook is a project created and maintained by the maker event producers that are part of the (Nation of Makers)[http://www.nationofmakers.us] community. We need your contributions to extend it to be a world-class resource for maker event producers!
+This playbook is a project created and maintained by the maker event producers that are part of the [Nation of Makers](http://www.nationofmakers.us) community. We need your contributions to extend it to be a world-class resource for maker event producers!
 
 ### Contribute to the Maker Event Playbook
 Want to contribute to the overall playbook? - [learn how to contribute](contributing.html)
