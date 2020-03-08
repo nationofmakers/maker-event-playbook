@@ -33,7 +33,7 @@ This playbook has both an overview context and documentation from specific event
 
 ### Changes
 To directly contribute changes to the Maker Event Playbook, do the following:
-{% include important.html content = "If you are wanting to create a version of the playbook for your event, head straight to [Documenting Your Event](documenting_your_event.html)" %}
+{% include important.html content = "If you are wanting to create a version of the playbook for your event, head straight to [Documenting Your Event](document_your_event.html)" %}
 
 
 #### 1. Fork this repo
@@ -68,4 +68,4 @@ Once you've reviewed and committed your changes, create a granular pull request 
 
 ## Contribute by creating a playbook for your organization's event(s)
 
-See the [Documenting Your Event](documenting_your_event.html) page for details on how you can integrate your event's documentation into this global playbook, while also creating a version specific to your event!
+See the [Documenting Your Event](document_your_event.html) page for details on how you can integrate your event's documentation into this global playbook, while also creating a version specific to your event!
