@@ -227,98 +227,98 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Budget
-      url: /budgets
+    - title: Budgets
+      url: /general/budgets
       output: web, pdf
       type: homepage
 
     - title: Code of Conduct
-      url: /code_of_conduct
+      url: /general/code_of_conduct
       output: web, pdf
       type: homepage
 
     - title: Event Documentation
-      url: /event_documentation
+      url: /general/event_documentation
       output: web, pdf
       type: homepage
 
     - title: Event Technology
-      url: /event_technology
+      url: /general/event_technology
       output: web, pdf
       type: homepage
 
     - title: Insurance
-      url: /insurance
+      url: /general/insurance
       output: web, pdf
       type: homepage
 
     - title: Licensing
-      url: /licensing_agreements
+      url: /general/licensing_agreements
       output: web, pdf
       type: homepage
 
     - title: Locations
-      url: /locations
+      url: /general/locations
       output: web, pdf
       type: homepage
 
     - title: Marketing
-      url: /marketing
+      url: /general/marketing
       output: web, pdf
       type: homepage
 
     - title: Participating Entities
-      url: /participating_entities
+      url: /general/participating_entities
       output: web, pdf
       type: homepage
 
     - title: Photo/Video Release
-      url: /photo_video_release
+      url: /general/photo_video_release
       output: web, pdf
       type: homepage
 
     - title: Safety / Security
-      url: /safety_security
+      url: /general/safety_security
       output: web, pdf
       type: homepage
 
     - title: Setup Time / Strike Time
-      url: /setup_strike_time
+      url: /general/setup_strike_time
       output: web, pdf
       type: homepage
 
     - title: Signage
-      url: /signage
+      url: /general/signage
       output: web, pdf
       type: homepage
 
     - title: Sponsorship
-      url: /sponsorship
+      url: /general/sponsorship
       output: web, pdf
       type: homepage
 
     - title: Tickets
-      url: /tickets
+      url: /general/tickets
       output: web, pdf
       type: homepage
 
     - title: Radios
-      url: /general_radios
+      url: /general/general_radios
       output: web, pdf
       type: homepage
 
     - title: Unexpected Issues
-      url: /unexpected_issues
+      url: /general/unexpected_issues
       output: web, pdf
       type: homepage
 
     - title: Volunteers
-      url: /volunteers
+      url: /general/volunteers
       output: web, pdf
       type: homepage
 
     - title: 21+ Events
-      url: /21_plus_events
+      url: /general/21_plus_events
       output: web, pdf
       type: homepage
 
