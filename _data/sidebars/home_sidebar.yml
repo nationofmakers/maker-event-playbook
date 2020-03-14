@@ -228,97 +228,97 @@ entries:
       type: homepage
 
     - title: Budget
-      url: /budget.html
+      url: /budgets
       output: web, pdf
       type: homepage
 
     - title: Code of Conduct
-      url: /code_of_conduct.html
+      url: /code_of_conduct
       output: web, pdf
       type: homepage
 
     - title: Event Documentation
-      url: /event_documentation.html
+      url: /event_documentation
       output: web, pdf
       type: homepage
 
     - title: Event Technology
-      url: /event_technology.html
+      url: /event_technology
       output: web, pdf
       type: homepage
 
     - title: Insurance
-      url: /insurance.html
+      url: /insurance
       output: web, pdf
       type: homepage
 
     - title: Licensing
-      url: /licensing.html
+      url: /licensing_agreements
       output: web, pdf
       type: homepage
 
     - title: Locations
-      url: /locations.html
+      url: /locations
       output: web, pdf
       type: homepage
 
     - title: Marketing
-      url: /marketing.html
+      url: /marketing
       output: web, pdf
       type: homepage
 
     - title: Participating Entities
-      url: /participating_entities.html
+      url: /participating_entities
       output: web, pdf
       type: homepage
 
     - title: Photo/Video Release
-      url: /photo_video_release.html
+      url: /photo_video_release
       output: web, pdf
       type: homepage
 
     - title: Safety / Security
-      url: /safety_security.html
+      url: /safety_security
       output: web, pdf
       type: homepage
 
     - title: Setup Time / Strike Time
-      url: /setup_strike_time.html
+      url: /setup_strike_time
       output: web, pdf
       type: homepage
 
     - title: Signage
-      url: /signage.html
+      url: /signage
       output: web, pdf
       type: homepage
 
     - title: Sponsorship
-      url: /sponsorship.html
+      url: /sponsorship
       output: web, pdf
       type: homepage
 
     - title: Tickets
-      url: /tickets.html
+      url: /tickets
       output: web, pdf
       type: homepage
 
     - title: Radios
-      url: /general_radios.html
+      url: /general_radios
       output: web, pdf
       type: homepage
 
     - title: Unexpected Issues
-      url: /unexpected_issues.html
+      url: /unexpected_issues
       output: web, pdf
       type: homepage
 
     - title: Volunteers
-      url: /volunteers.html
+      url: /volunteers
       output: web, pdf
       type: homepage
 
     - title: 21+ Events
-      url: /21_plus_events.html
+      url: /21_plus_events
       output: web, pdf
       type: homepage
 
