@@ -228,7 +228,7 @@ entries:
       type: homepage
 
     - title: Budget
-      url: general\/budget.html
+      url: /budget.html
       output: web, pdf
       type: homepage
 
@@ -238,7 +238,7 @@ entries:
       type: homepage
 
     - title: Event Documentation
-      url: general\/event_documentation.html
+      url: /event_documentation.html
       output: web, pdf
       type: homepage
 
@@ -248,27 +248,27 @@ entries:
       type: homepage
 
     - title: Insurance
-      url: general\/insurance.html
+      url: /insurance.html
       output: web, pdf
       type: homepage
 
     - title: Licensing
-      url: general\/licensing.html
+      url: /licensing.html
       output: web, pdf
       type: homepage
 
     - title: Locations
-      url: general\/locations.html
+      url: /locations.html
       output: web, pdf
       type: homepage
 
     - title: Marketing
-      url: general\/marketing.html
+      url: /marketing.html
       output: web, pdf
       type: homepage
 
     - title: Participating Entities
-      url: general\/participating_entities.html
+      url: /participating_entities.html
       output: web, pdf
       type: homepage
 
@@ -278,7 +278,7 @@ entries:
       type: homepage
 
     - title: Safety / Security
-      url: general\/safety_security.html
+      url: /safety_security.html
       output: web, pdf
       type: homepage
 
@@ -288,17 +288,17 @@ entries:
       type: homepage
 
     - title: Signage
-      url: general\/signage.html
+      url: /signage.html
       output: web, pdf
       type: homepage
 
     - title: Sponsorship
-      url: general\/sponsorship.html
+      url: /sponsorship.html
       output: web, pdf
       type: homepage
 
     - title: Tickets
-      url: general\/tickets.html
+      url: /tickets.html
       output: web, pdf
       type: homepage
 
@@ -308,17 +308,17 @@ entries:
       type: homepage
 
     - title: Unexpected Issues
-      url: general\/unexpected_issues.html
+      url: /unexpected_issues.html
       output: web, pdf
       type: homepage
 
     - title: Volunteers
-      url: general\/volunteers.html
+      url: /volunteers.html
       output: web, pdf
       type: homepage
 
     - title: 21+ Events
-      url: /#
+      url: /21_plus_events.html
       output: web, pdf
       type: homepage
 
