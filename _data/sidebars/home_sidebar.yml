@@ -228,97 +228,97 @@ entries:
       type: homepage
 
     - title: Budgets
-      url: /general/budgets
+      url: general\/budgets
       output: web, pdf
       type: homepage
 
     - title: Code of Conduct
-      url: /general/code_of_conduct
+      url: general\/code_of_conduct
       output: web, pdf
       type: homepage
 
     - title: Event Documentation
-      url: /general/event_documentation
+      url: general\/event_documentation
       output: web, pdf
       type: homepage
 
     - title: Event Technology
-      url: /general/event_technology
+      url: general\/event_technology
       output: web, pdf
       type: homepage
 
     - title: Insurance
-      url: /general/insurance
+      url: general\/insurance
       output: web, pdf
       type: homepage
 
     - title: Licensing
-      url: /general/licensing_agreements
+      url: general\/licensing_agreements
       output: web, pdf
       type: homepage
 
     - title: Locations
-      url: /general/locations
+      url: general\/locations
       output: web, pdf
       type: homepage
 
     - title: Marketing
-      url: /general/marketing
+      url: general\/marketing
       output: web, pdf
       type: homepage
 
     - title: Participating Entities
-      url: /general/participating_entities
+      url: general\/participating_entities
       output: web, pdf
       type: homepage
 
     - title: Photo/Video Release
-      url: /general/photo_video_release
+      url: general\/photo_video_release
       output: web, pdf
       type: homepage
 
     - title: Safety / Security
-      url: /general/safety_security
+      url: general\/safety_security
       output: web, pdf
       type: homepage
 
     - title: Setup Time / Strike Time
-      url: /general/setup_strike_time
+      url: general\/setup_strike_time
       output: web, pdf
       type: homepage
 
     - title: Signage
-      url: /general/signage
+      url: general\/signage
       output: web, pdf
       type: homepage
 
     - title: Sponsorship
-      url: /general/sponsorship
+      url: general\/sponsorship
       output: web, pdf
       type: homepage
 
     - title: Tickets
-      url: /general/tickets
+      url: general\/tickets
       output: web, pdf
       type: homepage
 
     - title: Radios
-      url: /general/general_radios
+      url: general\/general_radios
       output: web, pdf
       type: homepage
 
     - title: Unexpected Issues
-      url: /general/unexpected_issues
+      url: general\/unexpected_issues
       output: web, pdf
       type: homepage
 
     - title: Volunteers
-      url: /general/volunteers
+      url: general\/volunteers
       output: web, pdf
       type: homepage
 
     - title: 21+ Events
-      url: /general/21_plus_events
+      url: general\/21_plus_events
       output: web, pdf
       type: homepage
 
