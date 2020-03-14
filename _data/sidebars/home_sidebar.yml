@@ -243,7 +243,7 @@ entries:
       type: homepage
 
     - title: Sponsorship
-      url: /#
+      url: general\/sponsorship.html
       output: web, pdf
       type: homepage
 
@@ -274,6 +274,11 @@ entries:
 
     - title: Radios
       url: /general_radios.html
+      output: web, pdf
+      type: homepage
+
+    - title: Volunteers
+      url: general\/volunteers.html
       output: web, pdf
       type: homepage
 
