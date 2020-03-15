@@ -3,7 +3,7 @@ title: Photo/Video Release
 keywords: General Topics
 tags: [getting_started]
 sidebar: home_sidebar
-permalink: photo_video_release.html
+permalink: /general/photo_video_release
 summary: Having a Photo/Video Release for your event...
 ---
 

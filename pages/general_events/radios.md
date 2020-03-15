@@ -3,7 +3,7 @@ title: Radios
 keywords: general
 tags:
 sidebar: home_sidebar
-permalink: general_radios.html
+permalink: /general/radios
 summary: General event information abut radios and radio communucation...
 ---
 

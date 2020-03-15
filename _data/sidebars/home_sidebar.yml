@@ -293,7 +293,7 @@ entries:
       type: homepage
 
     - title: Sponsorship
-      url: /general\/sponsorship
+      url: /general\/sponsorships
       output: web, pdf
       type: homepage
 
@@ -303,7 +303,7 @@ entries:
       type: homepage
 
     - title: Radios
-      url: /general\/general_radios
+      url: /general\/radios
       output: web, pdf
       type: homepage
 

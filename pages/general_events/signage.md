@@ -3,7 +3,7 @@ title: Signage
 keywords: General Topics
 tags: [getting_started]
 sidebar: general_topics_sidebar
-permalink: signage.html
+permalink: /general/signage
 summary: Signage helps people know where things are located...
 ---
 

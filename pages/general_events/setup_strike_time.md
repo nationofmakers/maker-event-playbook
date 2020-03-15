@@ -3,7 +3,7 @@ title: Setup Time / Strike Time
 keywords: General Topics
 tags: [getting_started]
 sidebar: home_sidebar
-permalink: setup_strike_time.html
+permalink: /general/setup_strike_time
 summary: You'll need time before and after your event for set-up and tear-down...
 ---
 

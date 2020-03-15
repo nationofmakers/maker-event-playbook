@@ -3,7 +3,7 @@ title: Event Technology
 keywords: General Topics
 tags: [getting_started]
 sidebar: home_sidebar
-permalink: event_technology.html
+permalink: /general/event_technology
 summary: Technology to help run your event...
 ---
 
