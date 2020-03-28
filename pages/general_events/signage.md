@@ -34,9 +34,6 @@ Exterior signage can also serve as marketing. People unfamiliar with your event 
 
 [ need to fill this in... ]
 
-## Reusable versus Single-Use
-
-[ need to fill this in... ]
 
 ## Materials
 
@@ -45,6 +42,11 @@ Signs can be made from so many different materials! What is right for your event
 Outdoor signs may need to stand up to weather conditions that include wind, water (including snow) and extreme heat. Plastic, vinyl, and other durable materials should be used for outdoor signage. Avoid paper (obviously) and anything fragile that can be easily damaged. If you have signage that uses electricity (AC or battery operated) make sure it can operate safely outdoors. Attachment and mounting of outdoor signage is another issue. We've seen signs blow away, fall over, and disintegrate. Keep safety and material usage in mind. More than once we've seen teams have to run out front and reattach signage that has come down or stand up a giant inflatable robot that has fallen over. Don't forget rope, cord, zip ties and sandbags for outdoor signage!
 
 Indoor signage is typically sheltered from weather conditions, though it may be susceptible to other issues. Paper signs are probably the minimum you can do, and laminated signs are typically a step up from that. Again, consider if your signs will be used just once and disposed of, or if you want to collect them at the end of the event and use them again.
+
+## Reusable versus Single-Use
+
+[ need to fill this in... ]
+
 
 ## Design
 
