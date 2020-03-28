@@ -15,6 +15,8 @@ So how do you go about documenting your event? There are as many methods as ther
 
 Documentation is information, and information wants to be free. Don't plan on just one person doing all the work, but make it a distributed project for anyone who is willing to help. This is where sharing is caring, and using the sharing tools available today through various software and service providers makes sense. Maybe you'll use Google Docs that many people have access to and can collaboratively write. Slack might be useful for people to quickly drop a note about something to the team so it can be expanded upon later. Other have used wikis or even email to easily gather the raw ideas generated during an event.
 
+## Tools
+
 Here's a list of some software we've seen teams use.
 
 All of these tools will work in a web browser, and most have desktop and mobile apps as well, which come in very handy for widening who has access and how easy it to use a tool.
