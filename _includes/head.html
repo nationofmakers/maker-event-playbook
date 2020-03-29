@@ -1,18 +1,11 @@
 {% include head-redirect.html %}
+{% include fork_robots_meta.html %}
+
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="{% if page.summary %}{{ page.summary | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
 <meta name="keywords" content="{{page.tags}}{% if page.tags %}, {% endif %} {{page.keywords}}">
-
-{% if site.url != "https://nationofmakers.github.io/maker-event-playbook" %}
-    <!-- This is a fork of the Nation of Makers Maker Event Playbook          -->
-    <!-- Please consult the playbook pages on configuring a fork to remove    -->
-    <!--  this search directive. Please do not remove this search directive   -->
-    <!--  unless you are creating an event or organization specific playbook  -->
-    <meta name="robots" content="noindex, nofollow">
-    <!-- End search directive for playbook forks -->
-{% endif %}
 
 <title>{{ page.title }} | {{ site.site_title }}</title>
 <link rel="stylesheet" href="{{ "{{site.baseurl}}/assets/css/syntax.css" }}">
