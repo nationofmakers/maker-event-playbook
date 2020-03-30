@@ -44,7 +44,7 @@
                         {% elsif page.url contains folderitem.url %}
                         <li class="dropdownActive"><a href="{{folderitem.url |  remove: "/"}}">{{folderitem.title}}</a></li>
                         {% else %}
-                        <li><a href="{{folderitem.url | remove: "/"}}">{{folderitem.title}}</a></li>
+                        <li><a href="{{folderitem.url | relative_url}}">{{folderitem.title}}</a></li>
                         {% endif %}
                         {% endfor %}
                     </ul>
@@ -66,7 +66,7 @@
                             SimpleJekyllSearch.init({
                                 searchInput: document.getElementById('search-input'),
                                 resultsContainer: document.getElementById('results-container'),
-                                dataSource: '{{ "/search.json" | prepend: site.baseurl | prepend: site.url }}',
+                                dataSource: '{{ "/search.json" | prepend: site.baseurl | prepend: relative_url }}',
                                 searchResultTemplate: '<li><a href="{url}" title="{{page.title | escape }}">{title}</a></li>',
                     noResultsText: '{{site.data.strings.search_no_results_text}}',
                             limit: 10,
