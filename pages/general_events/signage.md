@@ -19,13 +19,15 @@ Signage to your event may include billboards, yard signs, and banners. Typically
 
 ### Exterior Signage
 
-The role of exterior signage should be to get people to your event. This may involve telling people what building you are in, or where to go to park, or just where to enter the building. These may seem like simple things, but if you've got thousands of people coming to your event, even it the majority can easily figure it out, there's still a percentage that will appreciate extra guidance in getting there.
+One of the primary roles of exterior signage should be to get people into your event. This may involve telling people what building you are in, or where to park, or just where to enter the building. These may seem like simple things, but if you've got thousands of people coming to your event, even if the majority can easily figure it out, there's still a percentage that will appreciate extra guidance in getting there.
 
 Signage is also very valuable for makers, who often come from out of town. If you're driving an hour or more to get to an event to show off the awesome things you make, the last thing you want to do when you arrive is circle the block trying to figure out where to go, where to load in, where to park, etc. Hopefully this information has been sent to makers ahead of time, but from experience, we can tell you that signage will still help those makers who show up and seem to have no idea where to go.
 
 Exterior signage can also serve as marketing. People unfamiliar with your event might see a sign and want to learn more, they might look it up online, or just show up at the door and ask "What is this thing?" and then join the fun.
 
 ### Interior Signage
+
+Interior signage will help people find things once they are inside the venue. If your event is large enough to have more than one thing going on, signage can direct people to what they want to see and do. If you're hosting makers at your event, it's very valuable to provide each maker with a sign they can put at their table or booth
 
 [ need to fill this in... ]
 
@@ -45,8 +47,13 @@ Indoor signage is typically sheltered from weather conditions, though it may be 
 
 ## Reusable versus Single-Use
 
-[ need to fill this in... ]
+Some of your signs can be used again and again, while other signs will be used just once. You'll want to think about materials (mentioned above) when you decide if a sign should be used just once or used again and again, especially since material choice can affect the price of producing a sign.
 
+If you've got a sign that lists the times of performances there's a good chance that will be a single-use sign. Signs with dates are typically used just once (especially if it's the date of your event) but there are ways to reuse signage but cutting off dates or covering dates. While we're on the subject of "single-use signs", it's always worth keeping in mind that makers can make use of all sorts of materials, and sign made from durable materials like coroplast, vinyl, and fabric can be recycled into new signage or other things. Before you toss it all in the dumpter, check with makers to see if they can make use of them.
+
+Reusable signs are best made from durable materials so you can (try to) use them again and again. Signs for your organization, your event name, or activities you'll have at future events, are great candidates for reuse. For instance, if you plan to hold a "Learn to Solder" workshop in the future, it can help to have a sign that lasts. 
+
+For any reusable signs, keep storage in mind. Some signs can be stores flat, while other can be rolled up. If you're getting a 20 foot long printed on Sintra (expanded PVC) you'll need to find a place to store it. (Sintra does not take kindly to being folded in half.)
 
 ## Design
 
