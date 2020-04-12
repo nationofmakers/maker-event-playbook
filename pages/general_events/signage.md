@@ -51,7 +51,7 @@ Some of your signs can be used again and again, while other signs will be used j
 
 If you've got a sign that lists the times of performances there's a good chance that will be a single-use sign. Signs with dates are typically used just once (especially if it's the date of your event) but there are ways to reuse signage but cutting off dates or covering dates. While we're on the subject of "single-use signs", it's always worth keeping in mind that makers can make use of all sorts of materials, and sign made from durable materials like coroplast, vinyl, and fabric can be recycled into new signage or other things. Before you toss it all in the dumpter, check with makers to see if they can make use of them.
 
-Reusable signs are best made from durable materials so you can (try to) use them again and again. Signs for your organization, your event name, or activities you'll have at future events, are great candidates for reuse. For instance, if you plan to hold a "Learn to Solder" workshop in the future, it can help to have a sign that lasts. 
+Reusable signs are best made from durable materials so you can (try to) use them again and again. Signs for your organization, your event name, or activities you'll have at future events, are great candidates for reuse. For instance, if you plan to hold a "Learn to Solder" workshop in the future, it can help to have a sign that lasts.
 
 For any reusable signs, keep storage in mind. Some signs can be stores flat, while other can be rolled up. If you're getting a 20 foot long printed on Sintra (expanded PVC) you'll need to find a place to store it. (Sintra does not take kindly to being folded in half.)
 
