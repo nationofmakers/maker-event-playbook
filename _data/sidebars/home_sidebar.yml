@@ -42,42 +42,42 @@ entries:
       type: homepage
 
     - title: Socials (includes parties)
-      url: /#
+      url: /makers_socializing/socials
       output: web, pdf
       type: homepage
 
     - title: Meetups / Maker Meetups
-      url: /#
+      url: /makers_socializing/meetups
       output: web, pdf
       type: homepage
 
     - title: Festivals
-      url: /#
+      url: /makers_socializing/festivals
       output: web, pdf
       type: homepage
 
     - title: Game Night
-      url: /#
+      url: /makers_socializing/game_night
       output: web, pdf
       type: homepage
 
     - title: Birthday Party
-      url: /#
+      url: /makers_socializing/birthday_parties
       output: web, pdf
       type: homepage
 
     - title: Field Trips (visiting other places)
-      url: /#
+      url: /makers_socializing/field_trips
       output: web, pdf
       type: homepage
 
     - title: Events (that someone else is putting on)
-      url: /#
+      url: /makers_socializing/attending_events
       output: web, pdf
       type: homepage
 
     - title: Maker Conference (Speakers/Presentations/Ignite/BarCamp)
-      url: /#
+      url: /makers_socializing/maker_conferences
       output: web, pdf
       type: homepage
 
