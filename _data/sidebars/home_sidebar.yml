@@ -20,7 +20,7 @@ entries:
     folderitems:
 
     - title: Get started
-      url: /index
+      url: /index.html
       output: web, pdf
       type: homepage
 
