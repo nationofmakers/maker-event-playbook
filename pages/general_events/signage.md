@@ -63,7 +63,7 @@ Hopefully the idea of well-designed signs doesn't scare you too much. Every even
 
 ## Limitations
 
-While it may be tempting to dream up crazy ideas for signage, remember that the goal is to provide information in a safe and effective manner. Signs that can fall over, or prevent a tripping (or climbing) hazard should be evaluated properly before implemented.
+While it may be tempting to dream up crazy ideas for signage, remember that the goal is to provide information in a safe and effective manner. Signs that can fall over, or present a tripping (or climbing) hazard should be evaluated properly before implemented.
 
 Many venues will have limitations on signage. For instance, your venue may have policies that include; no signs attached to the floor, no signs on the wall, no signs on doors, no tape to be used to attach signs, etc. Work with your venue to make sure you are on the same page about where signs can be placed. Often free-standing signs on posts, tripods, etc. that you supply are the safest bet. Some venues may be able to provide tripods or other means of displaying signage. Again, ask questions, work with your venue, and be respectful of the partnership you have with them.
 
