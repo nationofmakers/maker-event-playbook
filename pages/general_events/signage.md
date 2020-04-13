@@ -27,15 +27,17 @@ Exterior signage can also serve as marketing. People unfamiliar with your event 
 
 ### Interior Signage
 
-Interior signage will help people find things once they are inside the venue. If your event is large enough to have more than one thing going on, signage can direct people to what they want to see and do. If you're hosting makers at your event, it's very valuable to provide each maker with a sign they can put at their table or booth
-
-[ need to fill this in... ]
-
+Interior signage will help people find things once they are inside the venue. If your event is large enough to have more than one thing going on, signage can direct people to what they want to see and do. If you're hosting makers at your event, it's very valuable to provide each maker with a sign they can put at their table or booth.  Some of this signage can overlap with what you have outside, think of navigation, promotion and general event branding.  
 
 ### Digital Signage
 
-[ need to fill this in... ]
+Digital Signage is loosely digital screens, think TVs, Monitors, Projectors, etc.  which can provide more information in less space, and change in real time.  These are particularly useful for showing schedules which are often dynamic up until the start of your event.  Or if you have a stage, great for showing who is on stage or up next.  If something is cancelled it could be easy to load another slide up so screens show the info to your attendees. If you have a promotional video or some dynamic content it can really catch the eye of your attendees and draw them to something.
 
+#### TVs
+Smart TVs are readily available now, they usually have some sort of playback capability where you can load a deck of images on a USB jump drive and it will loop them througout the event.  Some regular TVs have this same capability. You can add a Roku, AppleTV, etc. if you dont have this ability on your "dumb" tvs.  If you are in a venue with these TVs already there might be a digital signage solution in place, talk to your venue about this opportunity to brand common spaces with some inexpensive pixels.  If your venue does not have these in place, think about what the TVs will be deployed on, a clean solution is a tripod style TV mount, but Tables with a TV on top work as well.
+
+#### Projectors
+You can use projectors running video content, powerpoint slides, or any media playback you want.  It can be something you update during the event or static throughout the event.  These can be driven by a number of options, same as what you can connect to TVs from the preceding content.  Projectors are great for large impact, but remember that in a well lit room, or for a large projection, that the projector needs to be bright enough to have impact.  Additionally they can use more power and generate more heat, finally if people can walk inbetween the screen and projector, they will cast shadows obscuring your content.
 
 ## Materials
 
