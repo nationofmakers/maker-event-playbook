@@ -3,7 +3,7 @@ title: Welcome to the Maker Event Playbook
 keywords: homepage
 tags: [getting_started]
 sidebar: home_sidebar
-permalink: index.html
+permalink: /
 summary: This guide will help you plan a maker event and to learn from the experience of other maker event producers.
 ---
 
