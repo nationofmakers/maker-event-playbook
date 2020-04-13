@@ -185,37 +185,37 @@ entries:
       type: homepage
 
     - title: Building Competitions
-      url: /#
+      url: /makers_going_into_community/building_competitions
       output: web, pdf
       type: homepage
 
     - title: PPPRS Event
-      url: /#
+      url: /makers_going_into_community/ppprs_event
       output: web, pdf
       type: homepage
 
     - title: Maker Camps (kid-based)
-      url: /#
+      url: /makers_going_into_community/maker_camps
       output: web, pdf
       type: homepage
 
     - title: Workshops for Kids
-      url: /#
+      url: /makers_going_into_community/workshops_for_kids
       output: web, pdf
       type: homepage
 
     - title: Make and Takes
-      url: /#
+      url: /makers_going_into_community/make_and_takes
       output: web, pdf
       type: homepage
 
     - title: Maker Meetups
-      url: /#
+      url: /makers_going_into_community/maker_meetups
       output: web, pdf
       type: homepage
 
-    - title: Community Build
-      url: /#
+    - title: Community Builds
+      url: /makers_going_into_community/community_builds
       output: web, pdf
       type: homepage
 
