@@ -3,7 +3,7 @@ title: "Collaborators"
 keywords: people collaborators contributors
 tags: [getting_started]
 sidebar: home_sidebar
-permalink: collaborators.html
+permalink: collaborators
 summary: These awesome people helped make this playbook.
 ---
 

@@ -3,7 +3,7 @@ title: Why GitHub?
 keywords: homepage
 tags: [getting_started]
 sidebar: home_sidebar
-permalink: why_github.html
+permalink: why_github
 summary: If you aren't a software developer, you are probably wondering what this GitHub thing is all about. Stick around for a bit and let's talk about why we chose to create the Maker Event Playbook using Open Source Software principles.
 ---
 

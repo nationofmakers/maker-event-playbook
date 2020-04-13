@@ -3,7 +3,7 @@ title: Event Listings
 keywords: homepage
 tags: [getting_started]
 sidebar: home_sidebar
-permalink: event_listing.html
+permalink: event_listing
 summary: This section is to help provide examples of various types of events.
 ---
 

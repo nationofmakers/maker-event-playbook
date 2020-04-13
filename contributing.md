@@ -3,7 +3,7 @@ title: Contributing
 keywords: homepage
 tags: [getting_started]
 sidebar: home_sidebar
-permalink: contributing.html
+permalink: contributing
 summary: You can contribute to this playbook by adding to the playbook overview OR by documenting your own event.
 ---
 

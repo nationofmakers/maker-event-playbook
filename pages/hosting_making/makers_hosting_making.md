@@ -3,7 +3,7 @@ title: Makers hosting a Making Event
 keywords: homepage
 tags: [getting_started]
 sidebar: home_sidebar
-permalink: makers_hosting_making.html
+permalink: makers_hosting_making
 summary: This guide will help you plan making based events.
 ---
 

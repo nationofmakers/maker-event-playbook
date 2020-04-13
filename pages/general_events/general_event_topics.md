@@ -3,7 +3,7 @@ title: General Event Topics
 keywords: homepage
 tags: [getting_started]
 sidebar: home_sidebar
-permalink: general_event_topics.html
+permalink: general_event_topics
 summary: This section covers general topics that apply to all events.
 ---
 

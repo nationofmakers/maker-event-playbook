@@ -11,11 +11,7 @@ entries:
     type: frontmatter
     folderitems:
     - title:
-      url: /titlepage.html
-      output: pdf
-      type: frontmatter
-    - title:
-      url: /tocpage.html
+      url: /titlepage
       output: pdf
       type: frontmatter
 
@@ -24,16 +20,16 @@ entries:
     folderitems:
 
     - title: Get started
-      url: /index.html
+      url: /index
       output: web, pdf
       type: homepage
 
     - title: Collaborators
-      url: /collaborators.html
+      url: /collaborators
       output: web, pdf
 
     - title: Contributing
-      url: /contributing.html
+      url: /contributing
       output: web, pdf
 
   - title: Social Events
@@ -41,7 +37,7 @@ entries:
     folderitems:
 
     - title: Socializing Events Overview
-      url: /makers_socializing.html
+      url: /makers_socializing
       output: web, pdf
       type: homepage
 
@@ -90,7 +86,7 @@ entries:
     folderitems:
 
     - title: Making Events Overview
-      url: /makers_hosting_making.html
+      url: /makers_hosting_making
       output: web, pdf
       type: homepage
 
@@ -184,7 +180,7 @@ entries:
     folderitems:
 
     - title: Making with Community Overview
-      url: /makers_going_into_community.html
+      url: /makers_going_into_community
       output: web, pdf
       type: homepage
 
@@ -228,7 +224,7 @@ entries:
     folderitems:
 
     - title: General Event Topics Overview
-      url: /general_event_topics.html
+      url: /general_event_topics
       output: web, pdf
       type: homepage
 
@@ -332,7 +328,7 @@ entries:
     folderitems:
 
     - title: Place Holder for Event Lists
-      url: /event_listing.html
+      url: /event_listing
       output: web, pdf
       type: homepage
 
