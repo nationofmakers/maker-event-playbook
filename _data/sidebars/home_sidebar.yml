@@ -86,17 +86,17 @@ entries:
     folderitems:
 
     - title: Making Events Overview
-      url: /makers_hosting_making
+      url: /hosting_making
       output: web, pdf
       type: homepage
 
     - title: Build Competitions
-      url: /#
+      url: /hosting_making/build_competitions
       output: web, pdf
       type: homepage
 
     - title: Maker Camps (kid based)
-      url: /#
+      url: /hosting_making/maker_camps
       output: web, pdf
       type: homepage
 
@@ -106,72 +106,72 @@ entries:
       type: homepage
 
     - title: Workshops for kids
-      url: /#
+      url: /hosting_making/workshops_for_kids
       output: web, pdf
       type: homepage
 
     - title: Make and Takes
-      url: /#
+      url: /hosting_making/make_and_takes
       output: web, pdf
       type: homepage
 
     - title: Fundraisers (Build to Bid)
-      url: /#
+      url: /hosting_making/fundraisers
       output: web, pdf
       type: homepage
 
     - title: Meeting Location/Meetups (for other groups)
-      url: /#
+      url: /hosting_making/meeting_location
       output: web, pdf
       type: homepage
 
     - title: Working on the makerspace itself
-      url: /#
+      url: /hosting_making/working_on_the_makerspace
       output: web, pdf
       type: homepage
 
     - title: Makerspace Classes
-      url: /#
+      url: /hosting_making/makerspace_classes
       output: web, pdf
       type: homepage
 
     - title: Maker Faire and Maker Fests (show and tells)
-      url: /#
+      url: /hosting_making/maker_faires_and_maker_fests
       output: web, pdf
       type: homepage
 
-    - title: Maker Markets/(M)Swap Meet
-      url: /#
+    - title: Maker Markets/Swap Meet
+      url: /hosting_making/maker_markets_and_swap_meets
       output: web, pdf
       type: homepage
 
     - title: Maker Conference
-      url: /#
+      url: /hosting_making/maker_conference
       output: web, pdf
       type: homepage
 
     - title: Community Build
-      url: /#
+      url: /hosting_making/community_builds
       output: web, pdf
       type: homepage
 
     - title: Make-A-Thon/Hackathon/Game Jam
-      url: /#
+      url: /hosting_making/make_a_thon_hackathon
       output: web, pdf
       type: homepage
 
     - title: Maker Art Gallery (Maker takeover of art gallery)
-      url: /#
+      url: /hosting_making/maker_art_gallery
       output: web, pdf
       type: homepage
 
-    - title: Recovery/Support location (think after disasters)
-      url: /#
+    - title: Support/Disasters Location
+      url: /hosting_making/support_disaster_location
       output: web, pdf
       type: homepage
 
-    - title: Open house / open night / open make
-      url: /#
+    - title: Open House / Open Make
+      url: /hosting_making/open_house_open_make
       output: web, pdf
       type: homepage
 
