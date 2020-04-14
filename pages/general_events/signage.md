@@ -1,7 +1,7 @@
 ---
 title: Signage
 keywords: General Topics
-tags: [getting_started]
+tags: [getting_started, signs, decor, info, navigation, signage, digital signage]
 sidebar: home_sidebar
 permalink: /general/signage
 summary: Signage helps people know where things are located...
