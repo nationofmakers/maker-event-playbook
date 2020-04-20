@@ -1,16 +1,25 @@
 ---
 title: "Collaborators"
-keywords: people collaborators contributors
-tags: [getting_started]
+keywords: 
+tags: [collaborators, collaborating, contributors, people, organizations,]
 sidebar: home_sidebar
 permalink: collaborators
 summary: These awesome people helped make this playbook.
 ---
 
-## Theme & GitHub setup
-Ian Cole - ian.cole@themakereffect.org
+## Who do we Blame and/or Thank?
 
-## Playbook Taxonomy
+The following people contributed to this guide.
 
-## Playbook Content
+  * Ian Cole
+  * Candy Cole
+  * Pete Prodoehl
+  * Dan Schneiderman
+  * Andrew Rudolph
+  * Chad Elish
+  * Andrea Gellatly
+
+
+
+
 
