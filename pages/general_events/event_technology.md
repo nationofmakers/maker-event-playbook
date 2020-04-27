@@ -41,6 +41,16 @@ A note about mobile phones. You may be saying "Well, people can just use their p
 
 ## Wired Connections
 
+## Tickets
+
+### Pre-Event
+
+...tech needed to sell tickets online...
+
+### During Event
+
+...tech needed to scan & sell tickets at the event...
+
 ## Critical versus Non-critical
 
 [ in progress... ]
