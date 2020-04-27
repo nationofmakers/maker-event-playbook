@@ -63,10 +63,7 @@ While it may be tempting to dream up crazy ideas for signage, remember that the 
 Many venues will have limitations on signage. For instance, your venue may have policies that include; no signs attached to the floor, no signs on the wall, no signs on doors, no tape to be used to attach signs, etc. Work with your venue to make sure you are on the same page about where signs can be placed. Often free-standing signs on posts, tripods, etc. that you supply are the safest bet. Some venues may be able to provide tripods or other means of displaying signage. Again, ask questions, work with your venue, and be respectful of the partnership you have with them.
 
 Cost is another limitation you may have to deal with… luckily, makers are resourceful. If your organization is a non-profit putting on a community event, consider asking a local sign shop for a donation of printed signs. You might also offer them an in-kind sponsorship as part of the trade.
+
 ## Examples
 
-[ add examples MFO, MFMKE, etc ? ]
-
-
-
-
+[Look at this sign in Orlando.](https://www.flickr.com/photos/iancole/49141666436/in/pool-makerfaireorlando/)
