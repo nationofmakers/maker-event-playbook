@@ -67,3 +67,6 @@ Cost is another limitation you may have to deal with… luckily, makers are reso
 ## Examples
 
 [Look at this sign in Orlando.](https://www.flickr.com/photos/iancole/49141666436/in/pool-makerfaireorlando/)
+
+![image]({{site.baseurl}}/images/general/MakerFaireOrlandoSignage.jpg)
+
