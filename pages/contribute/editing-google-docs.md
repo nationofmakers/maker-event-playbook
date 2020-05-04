@@ -1,5 +1,5 @@
 ---
-title: Editing: Google Docs
+title: Editing - Google Docs
 keywords: General Topics
 tags: [Signage, Signs, Digital Signage, Navigation, banners, decor, informational]
 sidebar: home_sidebar
