@@ -31,6 +31,10 @@ entries:
     - title: Contributing
       url: /contributing
       output: web, pdf
+      
+    - title: Editing with Google Docs
+      url: /contribute/editing-google-docs
+      output: web
 
   - title: Social Events
     output: web, pdf
