@@ -1,51 +1,10 @@
 ---
-title: Maker Socials
-keywords: homepage
-tags: 
+title: Socials
+keywords: 
+tags: [socials]
 sidebar: home_sidebar
 permalink: /makers_socializing/socials
-summary: THIS IS A TEMPLATE, PLEASE UPDATE :)
+summary: ...
 ---
 
-## Overview 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-***
-
-## Topic 1 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-### 1. Item 1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-###  2. Item 2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-### 3. Item 3 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-## Topic 2 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-### 1. Item 1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-###  2. Item 2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-### 3. Item 3 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-***
-
-## Resources 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-### 1. Examples
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-###  2. Other Guides
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-### 3. General Links 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
+If you've ever got together with a group of makers but didn't neceesarily _make_ anything, perhaps you were at a **Maker Social** event. These may be networking events, or maker dinners, or just getting together with friends (who happen to be makers) to hang out, perhaps discuss making, and hopefully get inspired. Every now and then a makerspace will throw a party and invite people to check out their space, and provide food, drink, and sometimes entertainment. Parties are fun events where you get to meet new makers and see their space.

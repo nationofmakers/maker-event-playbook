@@ -1,51 +1,10 @@
 ---
 title: Birthday Parties
-keywords: homepage
-tags: 
+keywords: 
+tags: [birthday, parties]
 sidebar: home_sidebar
 permalink: /makers_socializing/birthday_parties
-summary: THIS IS A TEMPLATE, PLEASE UPDATE :)
+summary: ...
 ---
 
-## Overview 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-***
-
-## Topic 1 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-### 1. Item 1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-###  2. Item 2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-### 3. Item 3 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-## Topic 2 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-### 1. Item 1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-###  2. Item 2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-### 3. Item 3 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-***
-
-## Resources 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-### 1. Examples
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-###  2. Other Guides
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-### 3. General Links 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
+Even makers have birthdays! We've seem maker themed birthday parties for kids and adults. Imagine a typical birthday party buy mix in some DIY, hands-on activities where everyone gets to make something.

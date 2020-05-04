@@ -1,51 +1,12 @@
 ---
 title: Field Trips
-keywords: homepage
-tags: 
+keywords: 
+tags: [field, trips]
 sidebar: home_sidebar
 permalink: /makers_socializing/field_trips
-summary: THIS IS A TEMPLATE, PLEASE UPDATE :)
+summary: ...
 ---
 
-## Overview 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
+If you are a member of a makerspace, or wish you were a member of a makerspace, you might find it very interesting to visit other spaces. The best time to visit another makerspace is during their specific open hours when they'll (typically) have people available to give you a tour and talk about their space. Plan a trip to another makerspace with your friends and learn how others do their making!
 
-***
-
-## Topic 1 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-### 1. Item 1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-###  2. Item 2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-### 3. Item 3 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-## Topic 2 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-### 1. Item 1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-###  2. Item 2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-### 3. Item 3 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-***
-
-## Resources 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-### 1. Examples
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-###  2. Other Guides
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-### 3. General Links 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
+Field Trips might also be to places that are _not_ makerspaces. Museums, art galleries, rapid prototyping labs, universities. We even heard from one makerspace that the put togther a field trip to Fermilab, the Fermi National Accelerator Laboratory in Batavia, Illinois. If you're going to go on a field trip, bring some makers with you.
