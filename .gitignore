@@ -3,4 +3,10 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-
+_data/.DS_Store
+_events/.DS_Store
+_includes/.DS_Store
+_layout/.DS_Store
+assets/.DS_Store
+images/.DS_Store
+pages/.DS_Store

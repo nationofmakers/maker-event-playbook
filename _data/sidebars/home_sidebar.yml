@@ -16,331 +16,331 @@ entries:
       type: frontmatter
 
   - title: Overview
-    output: web, pdf
+    output: web
     folderitems:
 
     - title: Get started
       url: /#
-      output: web, pdf
+      output: web
       type: homepage
 
     - title: Collaborators
       url: /collaborators
-      output: web, pdf
+      output: web
 
     - title: Contributing
       url: /contributing
-      output: web, pdf
+      output: web
       
     - title: Editing with Google Docs
       url: /contribute/editing-google-docs
       output: web
 
   - title: Social Events
-    output: web, pdf
+    output: web
     folderitems:
 
     - title: Socializing Events Overview
       url: /makers_socializing
-      output: web, pdf
+      output: web
       type:
 
-    - title: Socials (includes parties)
+    - title: Socials
       url: /makers_socializing/socials
-      output: web, pdf
+      output: web
       type: 
 
-    - title: Meetups / Maker Meetups
+    - title: Meetups
       url: /makers_socializing/meetups
-      output: web, pdf
+      output: web
       type: 
 
     - title: Festivals
       url: /makers_socializing/festivals
-      output: web, pdf
+      output: web
       type:
 
     - title: Game Night
       url: /makers_socializing/game_night
-      output: web, pdf
+      output: web
       type: 
 
     - title: Birthday Party
       url: /makers_socializing/birthday_parties
-      output: web, pdf
+      output: web
       type: 
 
-    - title: Field Trips (visiting other places)
+    - title: Field Trips
       url: /makers_socializing/field_trips
-      output: web, pdf
+      output: web
       type: 
 
-    - title: Events (that someone else is putting on)
+    - title: Attending Events
       url: /makers_socializing/attending_events
-      output: web, pdf
+      output: web
       type: 
 
-    - title: Maker Conference (Speakers/Presentations/Ignite/BarCamp)
+    - title: Maker Conference
       url: /makers_socializing/maker_conferences
-      output: web, pdf
+      output: web
       type: 
 
   - title: Makers Hosting Making Events
-    output: web, pdf
+    output: web
     folderitems:
 
     - title: Making Events Overview
       url: /hosting_making
-      output: web, pdf
+      output: web
       type: 
 
     - title: Build Competitions
       url: /hosting_making/build_competitions
-      output: web, pdf
+      output: web
       type: 
 
     - title: Maker Camps (kid based)
       url: /hosting_making/maker_camps
-      output: web, pdf
+      output: web
       type: 
 
     - title: Tickets
       url: /hosting_making/tickets
-      output: web, pdf
+      output: web
       type: 
 
     - title: Workshops for kids
       url: /hosting_making/workshops_for_kids
-      output: web, pdf
+      output: web
       type: 
 
     - title: Make and Takes
       url: /hosting_making/make_and_takes
-      output: web, pdf
+      output: web
       type: 
 
     - title: Fundraisers (Build to Bid)
       url: /hosting_making/fundraisers
-      output: web, pdf
+      output: web
       type: 
 
     - title: Meeting Location/Meetups (for other groups)
       url: /hosting_making/meeting_location
-      output: web, pdf
+      output: web
       type: 
 
     - title: Working on the makerspace itself
       url: /hosting_making/working_on_the_makerspace
-      output: web, pdf
+      output: web
       type: 
 
     - title: Makerspace Classes
       url: /hosting_making/makerspace_classes
-      output: web, pdf
+      output: web
       type: 
 
     - title: Maker Faire and Maker Fests (show and tells)
       url: /hosting_making/maker_faires_and_maker_fests
-      output: web, pdf
+      output: web
       type: 
 
     - title: Maker Markets/Swap Meet
       url: /hosting_making/maker_markets_and_swap_meets
-      output: web, pdf
+      output: web
       type: 
 
     - title: Maker Conference
       url: /hosting_making/maker_conference
-      output: web, pdf
+      output: web
       type: 
 
     - title: Community Build
       url: /hosting_making/community_builds
-      output: web, pdf
+      output: web
       type: 
 
     - title: Make-A-Thon/Hackathon/Game Jam
       url: /hosting_making/make_a_thon_hackathon
-      output: web, pdf
+      output: web
       type: 
 
     - title: Maker Art Gallery (Maker takeover of art gallery)
       url: /hosting_making/maker_art_gallery
-      output: web, pdf
+      output: web
       type: 
 
     - title: Support/Disasters Location
       url: /hosting_making/support_disaster_location
-      output: web, pdf
+      output: web
       type: 
 
     - title: Open House / Open Make
       url: /hosting_making/open_house_open_make
-      output: web, pdf
+      output: web
       type: 
 
   - title: Makers Going Into Community
-    output: web, pdf
+    output: web
     folderitems:
 
     - title: Making with Community Overview
       url: /makers_going_into_community
-      output: web, pdf
+      output: web
       type: 
 
     - title: Building Competitions
       url: /makers_going_into_community/building_competitions
-      output: web, pdf
+      output: web
       type: 
 
     - title: PPPRS Event
       url: /makers_going_into_community/ppprs_event
-      output: web, pdf
+      output: web
       type: 
 
     - title: Maker Camps (kid-based)
       url: /makers_going_into_community/maker_camps
-      output: web, pdf
+      output: web
       type: 
 
     - title: Workshops for Kids
       url: /makers_going_into_community/workshops_for_kids
-      output: web, pdf
+      output: web
       type: 
 
     - title: Make and Takes
       url: /makers_going_into_community/make_and_takes
-      output: web, pdf
+      output: web
       type: 
 
     - title: Maker Meetups
       url: /makers_going_into_community/maker_meetups
-      output: web, pdf
+      output: web
       type: 
 
     - title: Community Builds
       url: /makers_going_into_community/community_builds
-      output: web, pdf
+      output: web
       type: 
 
   - title: General Event Topics
-    output: web, pdf
+    output: web
     folderitems:
 
     - title: General Event Topics Overview
       url: /general_event_topics
-      output: web, pdf
+      output: web
       type: 
 
     - title: Budgets
       url: /general/budgets
-      output: web, pdf
+      output: web
       type: 
 
     - title: Code of Conduct
       url: /general/code_of_conduct
-      output: web, pdf
+      output: web
       type: 
 
     - title: Event Documentation
       url: /general/event_documentation
-      output: web, pdf
+      output: web
       type: 
 
     - title: Event Technology
       url: /general/event_technology
-      output: web, pdf
+      output: web
       type: 
 
     - title: Insurance
       url: /general/insurance
-      output: web, pdf
+      output: web
       type: 
 
     - title: Licensing
       url: /general/licensing_agreements
-      output: web, pdf
+      output: web
       type: 
 
     - title: Locations
       url: /general/locations
-      output: web, pdf
+      output: web
       type: 
 
     - title: Marketing
       url: /general/marketing
-      output: web, pdf
+      output: web
       type: 
 
     - title: Participating Entities
       url: /general/participating_entities
-      output: web, pdf
+      output: web
       type: 
 
     - title: Photo/Video Release
       url: /general/photo_video_release
-      output: web, pdf
+      output: web
       type: 
 
     - title: Safety / Security
       url: /general/safety_security
-      output: web, pdf
+      output: web
       type: 
 
     - title: Setup Time / Strike Time
       url: /general/setup_strike_time
-      output: web, pdf
+      output: web
       type: 
 
     - title: Signage
       url: /general/signage
-      output: web, pdf
+      output: web
       type: 
 
     - title: Sponsorship
       url: /general/sponsorships
-      output: web, pdf
+      output: web
       type: 
 
     - title: Tickets
       url: /general/tickets
-      output: web, pdf
+      output: web
       type: 
 
     - title: Radios
       url: /general/radios
-      output: web, pdf
+      output: web
       type: 
 
     - title: Unexpected Issues
       url: /general/unexpected_issues
-      output: web, pdf
+      output: web
       type: 
 
     - title: Volunteers
       url: /general/volunteers
-      output: web, pdf
+      output: web
       type: 
 
     - title: 21+ Events
       url: /general/21_plus_events
-      output: web, pdf
+      output: web
       type: 
 
   - title: Event Listings
-    output: web, pdf
+    output: web
     folderitems:
 
     - title: Place Holder for Event Lists
       url: /event_listing
-      output: web, pdf
+      output: web
       type: 
 
   - title: Issues that Will Come Up
-    output: web, pdf
+    output: web
     folderitems:
 
     - title: Place Holder for Issues that Will Come Up
       url: /#
-      output: web, pdf
+      output: web
       type: 
