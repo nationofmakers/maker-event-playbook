@@ -7,7 +7,6 @@ permalink: /general/sponsorships
 summary: Sponsorships can help make your event possible...
 ---
 
-
 The sponsorship needs of your event will most likely be determined by the scale of your event. 
 
 Sponsorship can be monetary or in-kind. The first is obviously money to help produce your event. This may consist of payment directly to your organization, or a sponsor directly paying for expenses related to your event. In-kind sponsorship can be just as valuable, providing services or products that will help you save money by not having to purchase or pay for things.
