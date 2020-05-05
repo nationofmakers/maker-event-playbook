@@ -1,5 +1,5 @@
 ---
-title: Writing Content for the Maker Event Playbook with Google Docs and Markdown Converter
+title: Writing Content for the Maker Event Playbook - Google Docs + Markdown Converter
 keywords: General Topics
 tags: [How to, contribute, writing, content]
 sidebar: home_sidebar
