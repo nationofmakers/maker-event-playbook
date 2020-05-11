@@ -1,9 +1,12 @@
-**title:** Writing Content for the Maker Event Playbook via Google Docs and a Markdown Converter
+---
+title: Writing Content for the Maker Event Playbook via Google Docs and a Markdown Converter
+keywords: General Topics
+tags: [How to, contribute, writing, content]
+sidebar: home_sidebar
+permalink: /contribute/editing-google-docs
+summary: Not everyone in your team is going to be comfortable working in GitHub, but they have great knowledge we want to share. This document is a walkthrough on a workflow using Google Docs and some free tools so your team can contribute to this project without having to become a GitHub expert.
 
-**tags:** [How to, contribute, writing, content]
-
-**summary:** Not everyone in your team is going to be comfortable working in GitHub, but they have great knowledge we want to share. This document is a walkthrough on a workflow using Google Docs and some free tools so your team can contribute to this project without having to become a GitHub expert.
-
+---
 ## Overview of the workflow
 
 This workflow seems to work for our team members who don&#39;t need to become experts at GitHub. Seeing as most people at this point understand how to use Google Docs it helps bring contributors in easily. You could use other document editing software, such as word, we found this worked best for us, after reading through how we do it, you might have something better for your team.
@@ -36,7 +39,7 @@ The Front Matter is sort of the info section for what you are writing up. There 
 
 This is pretty straight forward, this is the title for the page. It is what is going to be displayed on your navigation pages, and of course on the page itself. Try to keep it short and simple. **Do not use : in your title, it will cause a code error and not render your page.**
 
-#### Tags:
+#### Tags and Categories:
 
 Tags are tools used to help users find the page. They should be some alternative words to your title. For example if you were writing on soda, you would tag it with pop, cola, etc.
 
