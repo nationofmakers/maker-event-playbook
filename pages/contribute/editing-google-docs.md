@@ -39,7 +39,7 @@ The Front Matter is sort of the info section for what you are writing up. There 
 
 This is pretty straight forward, this is the title for the page. It is what is going to be displayed on your navigation pages, and of course on the page itself. Try to keep it short and simple. **Do not use : in your title, it will cause a code error and not render your page.**
 
-#### Tags and Categories:
+#### Tags:
 
 Tags are tools used to help users find the page. They should be some alternative words to your title. For example if you were writing on soda, you would tag it with pop, cola, etc.
 
