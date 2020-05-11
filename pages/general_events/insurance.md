@@ -4,9 +4,9 @@ keywords: General Topics
 tags: [Insurance, Liability]
 sidebar: home_sidebar
 permalink: /general/insurance
-summary: The purpose of this is to address extra insurance needed for special events. 
-This does NOT address general day to day liability insurance for your facility. 
+summary: The purpose of this is to address extra insurance needed for special events. This does NOT address general day to day liability insurance for your facility.
 ---
+
 
 
 ## Event Insurance
