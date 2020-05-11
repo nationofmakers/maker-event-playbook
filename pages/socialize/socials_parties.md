@@ -1,9 +1,9 @@
 ---
-title: Socials
+title: Socials & Parties
 keywords: 
 tags: [socials]
 sidebar: home_sidebar
-permalink: /makers_socializing/socials
+permalink: /makers_socializing/socials_parties
 summary: ...
 ---
 

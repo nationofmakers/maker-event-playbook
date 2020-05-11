@@ -1,51 +1,21 @@
 ---
-title: Meeting/Meetups Location
+title: Meeting/Meetup Location
 keywords: homepage
-tags: 
+tags: [meeting, meetup]
 sidebar: home_sidebar
 permalink: /hosting_making/meeting_location
 summary: THIS IS A TEMPLATE, PLEASE UPDATE :)
 ---
 
-## Overview 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
+This is for meetups/meetings at your space with outside groups...
 
-***
+Basically another group using your space as a venue...
 
-## Topic 1 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
+Including meetups around Faires like Bring-a-Hack...
 
-### 1. Item 1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
 
-###  2. Item 2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
+edit below...
 
-### 3. Item 3 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
+Meetups (and specifically, **Maker Meetups**) tend to be organized public events where anyone and everyone who is interested in the topic (Making, in this case) is invited to take part. Meetups can be formal, or informal, and may include talks or presentations, or may lean towards being more social. Meetup topics run the gamut, and many groups who are trying to start a makerspace start the process...
 
-## Topic 2 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
 
-### 1. Item 1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-###  2. Item 2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-### 3. Item 3 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-***
-
-## Resources 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-### 1. Examples
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-###  2. Other Guides
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-### 3. General Links 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.

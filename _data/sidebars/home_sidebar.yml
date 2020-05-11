@@ -45,8 +45,8 @@ entries:
       output: web
       type:
 
-    - title: Socials
-      url: /makers_socializing/socials
+    - title: Socials & Parties
+      url: /makers_socializing/socials_parties
       output: web
       type: 
 
@@ -60,12 +60,12 @@ entries:
       output: web
       type:
 
-    - title: Game Night
-      url: /makers_socializing/game_night
+    - title: Game Nights
+      url: /makers_socializing/game_nights
       output: web
       type: 
 
-    - title: Birthday Party
+    - title: Birthday Parties
       url: /makers_socializing/birthday_parties
       output: web
       type: 
@@ -99,17 +99,12 @@ entries:
       output: web
       type: 
 
-    - title: Maker Camps (kid based)
+    - title: Maker Camps
       url: /hosting_making/maker_camps
       output: web
       type: 
 
-    - title: Tickets
-      url: /hosting_making/tickets
-      output: web
-      type: 
-
-    - title: Workshops for kids
+    - title: Workshops for Kids
       url: /hosting_making/workshops_for_kids
       output: web
       type: 
@@ -119,18 +114,18 @@ entries:
       output: web
       type: 
 
-    - title: Fundraisers (Build to Bid)
+    - title: Fundraisers
       url: /hosting_making/fundraisers
       output: web
       type: 
 
-    - title: Meeting Location/Meetups (for other groups)
+    - title: Meeting/Meetup Location
       url: /hosting_making/meeting_location
       output: web
       type: 
 
-    - title: Working on the makerspace itself
-      url: /hosting_making/working_on_the_makerspace
+    - title: Space Improvement
+      url: /hosting_making/space_improvement
       output: web
       type: 
 
@@ -139,22 +134,22 @@ entries:
       output: web
       type: 
 
-    - title: Maker Faire and Maker Fests (show and tells)
-      url: /hosting_making/maker_faires_and_maker_fests
+    - title: Maker Faires & Maker Fests
+      url: /hosting_making/maker_faires_maker_fests
       output: web
       type: 
 
-    - title: Maker Markets/Swap Meet
-      url: /hosting_making/maker_markets_and_swap_meets
+    - title: Maker Markets & Swap Meets
+      url: /hosting_making/maker_markets_swap_meets
       output: web
       type: 
 
-    - title: Maker Conference
-      url: /hosting_making/maker_conference
+    - title: Maker Conferences
+      url: /hosting_making/maker_conferences
       output: web
       type: 
 
-    - title: Community Build
+    - title: Community Builds
       url: /hosting_making/community_builds
       output: web
       type: 
@@ -164,13 +159,13 @@ entries:
       output: web
       type: 
 
-    - title: Maker Art Gallery (Maker takeover of art gallery)
+    - title: Maker Art Gallery (Maker Takeover)
       url: /hosting_making/maker_art_gallery
       output: web
       type: 
 
-    - title: Support/Disasters Location
-      url: /hosting_making/support_disaster_location
+    - title: Disaster Recovery/Support Location
+      url: /hosting_making/disaster_support_location
       output: web
       type: 
 

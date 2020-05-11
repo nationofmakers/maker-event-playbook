@@ -1,5 +1,5 @@
 ---
-title: Makers getting together for Socializing
+title: Makers Getting Together for Socializing
 keywords: 
 tags: [social, socializing]
 sidebar: home_sidebar
@@ -9,10 +9,10 @@ summary: This guide will help you plan socializing events.
 
 Social events are not specifically about making things, but serve as a way to build and strengthen the Maker Community. Often it's about connecting and sharing with other makers in a  social setting. These may be considered networing events, gatherings, or relationship building opportunities.
 
-* [Socials (includes parties)](socials)
+* [Socials & Parties](socials_parties)
 * [Meetups / Maker Meetups](meetups)
 * [Festivals](festivals)
-* [Game Night](game_night)
+* [Game Nights](game_nights)
 * [Birthday Parties](birthday_parties)
 * [Field Trips (visiting other places)](field_trips)
 * [Attending Events (that someone else is putting on)](attending_events)

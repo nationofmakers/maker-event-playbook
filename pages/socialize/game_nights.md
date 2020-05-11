@@ -1,9 +1,9 @@
 ---
-title: Game Night
+title: Game Nights
 keywords: 
 tags: [games]
 sidebar: home_sidebar
-permalink: /makers_socializing/game_night
+permalink: /makers_socializing/game_nights
 summary: ...
 ---
 
