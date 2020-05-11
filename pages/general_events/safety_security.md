@@ -11,7 +11,9 @@ summary: Every event needs a good safety and security plan. The purpose of this 
 If your event involves holding borrowed items for display (art or special maker projects, for example), those items may cause you to need extra security. This need varies greatly by event, area, value of items, and it is entirely up to the hosting organization and if you, as the event host, are comfortable taking on the risk of protecting someone else’s property. To reduce your risk, you can address these concerns in an agreement with the owner of the exhibition items.
 
 ## 3rd Party Venues
-If you are holding your event held at a 3rd party venue, it is critical to have a security plan for both event hours and overnight. Depending on the venue, it may also be a good idea to have extra security on hand both during the event hours as well as overnight. Security can help with crowd management and at times when you will have excessive amounts of cash on hand. This is particularly helpful before and after the event when cash is being transported into and out of the event.
+If you are holding your event held at a 3rd party venue, it is critical to have a security plan. Some venues provide security while many do not. Your venue may also require you to choose from a specific list of security providers.
+
+Depending on the venue, it may also be a good idea to have extra security on hand both during the event hours as well as overnight. Security can help with crowd management and at times when you will have excessive amounts of cash on hand. This is particularly helpful before and after the event when cash is being transported into and out of the event.
 
 
 ## Police Officers vs Private Security
