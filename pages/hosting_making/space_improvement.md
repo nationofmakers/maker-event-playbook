@@ -1,7 +1,7 @@
 ---
 title: Space Improvement
 keywords: homepage
-tags: [improvement]
+tags: need_content
 sidebar: home_sidebar
 permalink: /hosting_making/space_improvement
 summary: THIS IS A TEMPLATE, PLEASE UPDATE :)

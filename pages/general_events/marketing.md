@@ -1,7 +1,7 @@
 ---
 title: Marketing
 keywords: General Topics
-tags:
+tags: need_content
 sidebar: home_sidebar
 permalink: /general/marketing
 summary: Marketing does things...

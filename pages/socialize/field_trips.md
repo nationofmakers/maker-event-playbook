@@ -1,7 +1,7 @@
 ---
 title: Field Trips
 keywords: 
-tags: [field, trips]
+tags: need_content
 sidebar: home_sidebar
 permalink: /makers_socializing/field_trips
 summary: ...

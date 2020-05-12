@@ -1,7 +1,7 @@
 ---
 title: Meeting/Meetup Location
 keywords: homepage
-tags: [meeting, meetup]
+tags: need_content
 sidebar: home_sidebar
 permalink: /hosting_making/meeting_location
 summary: THIS IS A TEMPLATE, PLEASE UPDATE :)

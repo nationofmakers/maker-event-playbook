@@ -1,7 +1,7 @@
 ---
 title: Game Nights
 keywords: 
-tags: [games]
+tags: need_content
 sidebar: home_sidebar
 permalink: /makers_socializing/game_nights
 summary: ...

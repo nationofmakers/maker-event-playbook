@@ -1,7 +1,7 @@
 ---
 title: Signage
 keywords: General Topics
-tags: [Signage, Signs, Digital Signage, Navigation, banners, decor, informational]
+tags:
 sidebar: home_sidebar
 permalink: /general/signage
 summary: Signage serves two primary purposes, directs people to your event (in the form of outdoor, sometimes off-site signage) and directs people around your event (in the form of on-site signage.) Signage to your event may include billboards, yard signs, and banners. Typically you&#39;ll need to work with the venue in regards to signage. Some venues have strict policies about what can be placed where, and may even need to approve artwork and verbiage.

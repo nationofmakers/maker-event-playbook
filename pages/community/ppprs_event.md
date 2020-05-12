@@ -1,7 +1,7 @@
 ---
 title: PPPRS Event
 keywords: homepage
-tags: 
+tags: need_content
 sidebar: home_sidebar
 permalink: /makers_going_into_community/ppprs_event
 summary: THIS IS A TEMPLATE, PLEASE UPDATE :)

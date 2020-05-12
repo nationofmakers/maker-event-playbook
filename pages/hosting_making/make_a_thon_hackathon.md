@@ -1,7 +1,7 @@
 ---
 title: Make-A-Thon/Hackathon/Game Jam
 keywords: homepage
-tags: [makeathon, hackathon, game, jam]
+tags: need_content
 sidebar: home_sidebar
 permalink: /hosting_making/make_a_thon_hackathon
 summary: THIS IS A TEMPLATE, PLEASE UPDATE :)

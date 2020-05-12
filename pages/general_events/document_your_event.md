@@ -1,7 +1,7 @@
 ---
 title: Documenting Your Event
 keywords: homepage
-tags: [getting_started]
+tags: need_content
 sidebar: home_sidebar
 permalink: document_your_event.html
 summary: You can extend this event playbook with documentation of your event practices, and use as your own local playbook.

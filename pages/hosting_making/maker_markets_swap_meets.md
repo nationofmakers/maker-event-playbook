@@ -1,7 +1,7 @@
 ---
 title: Maker Markets & Swap Meets
 keywords: homepage
-tags: [sell, commercial, products]
+tags: need_content
 sidebar: home_sidebar
 permalink: /hosting_making/maker_markets_swap_meets
 summary: THIS IS A TEMPLATE, PLEASE UPDATE :)

@@ -1,7 +1,7 @@
 ---
 title: Meetups
 keywords: 
-tags: [meetups]
+tags: need_content
 sidebar: home_sidebar
 permalink: /makers_socializing/meetups
 summary: ...

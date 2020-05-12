@@ -1,7 +1,7 @@
 ---
 title: Maker Conferences
 keywords: 
-tags: [conference]
+tags: need_content
 sidebar: home_sidebar
 permalink: /makers_socializing/maker_conferences
 summary: ...

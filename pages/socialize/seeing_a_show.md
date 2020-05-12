@@ -1,7 +1,7 @@
 ---
 title: Seeing a Show
 keywords: 
-tags: [show]
+tags: need_content
 sidebar: home_sidebar
 permalink: /makers_socializing/seeing_a_show
 summary: ...

@@ -1,7 +1,7 @@
 ---
 title: Maker Camps (kid-based)
 keywords: homepage
-tags: 
+tags: need_content
 sidebar: home_sidebar
 permalink: /makers_going_into_community/maker_camps
 summary: THIS IS A TEMPLATE, PLEASE UPDATE :)

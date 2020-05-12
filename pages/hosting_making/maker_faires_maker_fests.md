@@ -1,7 +1,7 @@
 ---
 title: Maker Faires & Maker Fests
 keywords: 
-tags: [make, take]
+tags: need_content
 sidebar: home_sidebar
 permalink: /hosting_making/maker_faires_maker_fests
 summary: THIS IS A TEMPLATE, PLEASE UPDATE :)

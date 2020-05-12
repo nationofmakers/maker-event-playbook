@@ -1,7 +1,7 @@
 ---
 title: Fundraisers
 keywords: 
-tags: [fundraiser]
+tags: need_content
 sidebar: home_sidebar
 permalink: /hosting_making/fundraisers
 summary: THIS IS A TEMPLATE, PLEASE UPDATE :)

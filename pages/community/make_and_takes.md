@@ -1,7 +1,7 @@
 ---
 title: Make and Takes
 keywords: homepage
-tags: 
+tags: need_content
 sidebar: home_sidebar
 permalink: /makers_going_into_community/make_and_takes
 summary: THIS IS A TEMPLATE, PLEASE UPDATE :)

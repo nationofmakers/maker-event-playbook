@@ -1,7 +1,7 @@
 ---
 title: Birthday Parties
 keywords: 
-tags: [birthday, parties]
+tags: need_content
 sidebar: home_sidebar
 permalink: /makers_socializing/birthday_parties
 summary: ...

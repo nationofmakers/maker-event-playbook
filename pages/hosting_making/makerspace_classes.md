@@ -1,7 +1,7 @@
 ---
 title: Makerspace Classes
 keywords: 
-tags: [classes]
+tags: need_content
 sidebar: home_sidebar
 permalink: /hosting_making/makerspace_classes
 summary: THIS IS A TEMPLATE, PLEASE UPDATE :)

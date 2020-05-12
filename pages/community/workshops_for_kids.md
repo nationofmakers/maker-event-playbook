@@ -1,7 +1,7 @@
 ---
 title: Workshops for Kids
 keywords: homepage
-tags: 
+tags: need_content
 sidebar: home_sidebar
 permalink: /makers_going_into_community/workshops_for_kids
 summary: THIS IS A TEMPLATE, PLEASE UPDATE :)

@@ -1,7 +1,7 @@
 ---
 title: Maker Conferences
 keywords: 
-tags: [conference]
+tags: need_content
 sidebar: home_sidebar
 permalink: /hosting_making/maker_conferences
 summary: THIS IS A TEMPLATE, PLEASE UPDATE :)

@@ -1,7 +1,7 @@
 ---
 title: Build Competitions
 keywords: 
-tags: [build, competition]
+tags: need_content
 sidebar: home_sidebar
 permalink: /hosting_making/build_competitions
 summary: THIS IS A TEMPLATE, PLEASE UPDATE :)

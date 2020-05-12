@@ -1,7 +1,7 @@
 ---
 title: Open House / Open Make
 keywords: homepage
-tags: [open]
+tags: need_content
 sidebar: home_sidebar
 permalink: /hosting_making/open_house_open_make
 summary: THIS IS A TEMPLATE, PLEASE UPDATE :)

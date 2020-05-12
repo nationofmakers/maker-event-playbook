@@ -1,7 +1,7 @@
 ---
 title: Festivals
 keywords: 
-tags: [festivals]
+tags: need_content
 sidebar: home_sidebar
 permalink: /makers_socializing/festivals
 summary: ...

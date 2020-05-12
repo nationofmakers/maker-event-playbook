@@ -1,7 +1,7 @@
 ---
 title: Makers Hosting a Making Event
 keywords: homepage
-tags: [hosting]
+tags:
 sidebar: home_sidebar
 permalink: hosting_making
 summary: This guide will help you plan making based events.

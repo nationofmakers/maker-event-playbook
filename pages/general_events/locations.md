@@ -1,7 +1,7 @@
 ---
 title: Locations
 keywords: General Topics
-tags:
+tags: need_content
 sidebar: home_sidebar
 permalink: /general/locations
 summary: Locations are places...

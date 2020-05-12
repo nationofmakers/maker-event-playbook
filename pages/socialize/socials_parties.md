@@ -1,7 +1,7 @@
 ---
 title: Socials & Parties
 keywords: 
-tags: [socials]
+tags: need_content
 sidebar: home_sidebar
 permalink: /makers_socializing/socials_parties
 summary: ...

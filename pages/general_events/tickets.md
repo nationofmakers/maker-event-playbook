@@ -1,7 +1,7 @@
 ---
 title: Tickets
 keywords: homepage
-tags:
+tags: need_content
 sidebar: home_sidebar
 permalink: /general/tickets
 summary: General event information related to tickets, RSVPs, and attendee tracking

@@ -1,7 +1,7 @@
 ---
 title: Maker Meetups
 keywords: homepage
-tags: 
+tags: need_content
 sidebar: home_sidebar
 permalink: /makers_going_into_community/maker_meetups
 summary: THIS IS A TEMPLATE, PLEASE UPDATE :)

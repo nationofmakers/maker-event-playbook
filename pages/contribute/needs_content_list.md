@@ -13,7 +13,7 @@ summary: Pages that Need Content
   	<ul>
   	{% for tag in page.tags %}
   		{% if tag == "need_content" %}
-    	<li><a href="{{page.url | relative_url}}">{{ page.title }}</a></li>
+    	<li><a href="{{page.url | relative_url}}">{{ page.title }}</a> - {{ page.permalink }}</li>
     	{% endif %}
     {% endfor %}
 	</ul>

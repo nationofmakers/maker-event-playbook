@@ -1,7 +1,7 @@
 ---
 title: Attending Events
 keywords: 
-tags: [attending]
+tags: need_content
 sidebar: home_sidebar
 permalink: /makers_socializing/attending_events
 summary: ...
