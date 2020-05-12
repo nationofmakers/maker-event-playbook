@@ -11,7 +11,7 @@ summary: You can contribute to this playbook by adding to the playbook overview 
 
 ### Why GitHub
 
-["Why GitHub"](why_github.html)to learn why we chose GitHub and GitHub pages for the Maker Event Playbook and how we are organizing the project using Open Source software principles
+["Why GitHub"](why_github)to learn why we chose GitHub and GitHub pages for the Maker Event Playbook and how we are organizing the project using Open Source software principles
 
 ### How The Maker Event Playbook uses GitHub Repos and GitHub pages
 [![The Maker Event Playbook on GitHub Diagram](/images/overview/maker_event_playbook_github_basics_v5_small.jpg)](/maker-event-playbook/images/overview/maker_event_playbook_github_basics_v5.pdf)

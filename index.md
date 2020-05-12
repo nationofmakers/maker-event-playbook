@@ -41,7 +41,7 @@ Bringing the passion for [making out into the world and sharing it](makers_going
 ---
 
 ### Hosting a Maker Event
-A [Maker Event](makers_hosting_making.html) would include hands-on making or sharing of things people have made where you are organizing and producing the event and responsible for all that hosting entails.
+A [Maker Event](hosting_making) would include hands-on making or sharing of things people have made where you are organizing and producing the event and responsible for all that hosting entails.
 
 * Build Competitions
 * Maker Camps (kid based)
@@ -67,13 +67,13 @@ A [Maker Event](makers_hosting_making.html) would include hands-on making or sha
 This playbook is a project created and maintained by the maker event producers that are part of the [Nation of Makers](http://www.nationofmakers.us) community. We need your contributions to extend it to be a world-class resource for maker event producers!
 
 ### Contribute to the Maker Event Playbook
-Want to contribute to the overall playbook? - [learn how to contribute](contributing.html)
+Want to contribute to the overall playbook? - [learn how to contribute](contribute/contributing)
 
 ### Create a Playbook for your Maker Event
 You can easily create a playbook for your event - [learn how to create your own playbook](document_your_event.html)
 
 ### Why GitHub?
-Wondering why this isn't a Wiki or a Google Doc? [Learn why we chose to build the Maker Event Playbook using GitHub...](why_github.html)
+Wondering why this isn't a Wiki or a Google Doc? [Learn why we chose to build the Maker Event Playbook using GitHub...](/contribute/why_github)
 
 
 Last change: {{ site.time }}

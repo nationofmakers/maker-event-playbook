@@ -3,7 +3,7 @@ title: Why GitHub?
 keywords: homepage
 tags: [getting_started]
 sidebar: home_sidebar
-permalink: why_github
+permalink: /contribute/why_github
 summary: If you aren't a software developer, you are probably wondering what this GitHub thing is all about. Stick around for a bit and let's talk about why we chose to create the Maker Event Playbook using Open Source Software principles.
 ---
 
@@ -64,4 +64,4 @@ GitHub is the repository for many large Open Source software projects and capabl
 Just ask your favorite software developer (make sure you have some time). As the project and the community grows, we expect to leverage more and more of the GitHub toolset.
 
 ### 5. Getting Involved
-Now that you know why we chose to develop the Maker Event Playbook using Open Source principles and tools, you can [learn how to contribute to the playbook!](contributing.html) 
+Now that you know why we chose to develop the Maker Event Playbook using Open Source principles and tools, you can [learn how to contribute to the playbook!](contributing) 
