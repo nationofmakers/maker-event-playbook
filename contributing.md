@@ -9,9 +9,11 @@ summary: You can contribute to this playbook by adding to the playbook overview 
 
 {% include warning.html content = "NOTE, WE ARE NOT READY FOR YOU TO DO THIS, BUT WANTED TO CREATE THIS PAGE :)" %}
 
-### Please start by reading ["Why GitHub"](why_github.html) to learn why we chose GitHub and GitHub pages for the Maker Event Playbook and how we are organizing the project using Open Source software principles
+### Why GitHub
 
-## How The Maker Event Playbook uses GitHub Repos and GitHub pages
+["Why GitHub"](why_github.html)to learn why we chose GitHub and GitHub pages for the Maker Event Playbook and how we are organizing the project using Open Source software principles
+
+### How The Maker Event Playbook uses GitHub Repos and GitHub pages
 [![The Maker Event Playbook on GitHub Diagram](/images/overview/maker_event_playbook_github_basics_v5_small.jpg)](/maker-event-playbook/images/overview/maker_event_playbook_github_basics_v5.pdf)
 
 ### The Maker Event Playbook uses several key components of GitHub to store and serve the playbook.
@@ -20,16 +22,17 @@ summary: You can contribute to this playbook by adding to the playbook overview 
 * GitHub "Commit" - Once you’ve made a set of related changes to your repository (and tested them!) you commit the change along with notes explaining the change. GitHub stores these commits in your repo and you can easily see the change history, or undo a commit later.
 * GitHub "Pull Request" - Once you’ve finished making changes in your fork, you can create a GitHub Pull Request. This is a request to the maintainers of the playbook, essentially saying “I’ve made an update, will you pull changes from my repo and merge them back into the original repository”
 
-### You can contribute by:
+### Contribute
+You can contribute by:
 * Contributing new pages or changes to existing pages that are part of the overall Maker Event Playbook.
 * Creating a playbook specific to your maker event or organization
 
 
-## Contribute new pages or changes to existing pages that are part of the overall Maker Event Playbook
+**Contribute new pages or changes to existing pages that are part of the overall Maker Event Playbook**
 This playbook has both an overview context and documentation from specific events. Use the steps below to contribute to the overview sections.
 
 ### Suggestions & Corrections
-#### You can make suggestions or propose corrections by creating GitHub issues for this repository. Please check to see if existing issues exist for this item, and please be specific.
+**You can make suggestions or propose corrections by creating GitHub issues for this repository. Please check to see if existing issues exist for this item, and please be specific.**
 
 ### Changes
 To directly contribute changes to the Maker Event Playbook, do the following:
@@ -66,6 +69,6 @@ Make changes to the overview pages. Please make impactful changes only, and keep
 Once you've reviewed and committed your changes, create a granular pull request so that we can review and incorporate the changes.
 
 
-## Contribute by creating a playbook for your organization's event(s)
+### Contribute by creating a playbook for your organization's event(s)
 
 See the [Documenting Your Event](document_your_event.html) page for details on how you can integrate your event's documentation into this global playbook, while also creating a version specific to your event!
