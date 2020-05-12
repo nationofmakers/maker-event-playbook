@@ -3,7 +3,7 @@ title: "Collaborators"
 keywords: 
 tags: [collaborators, collaborating, contributors, people, organizations, thank, blame]
 sidebar: home_sidebar
-permalink: collaborators
+permalink: /contribute/collaborators
 summary: These awesome people helped make this playbook.
 ---
 

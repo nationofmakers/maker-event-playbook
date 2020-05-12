@@ -2,7 +2,7 @@
 title: Pages that Need Content
 tags: [getting_started]
 sidebar: home_sidebar
-permalink: pages_that_need_content
+permalink: /contribute/pages_that_need_content
 summary: Pages that Need Content
 ---
 
