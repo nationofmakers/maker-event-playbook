@@ -11,7 +11,7 @@ summary: This guide will help you plan a maker event and to learn from the exper
 Maker events come in all shapes & sizes - so we've separated this playbook into three guides by event type to help you learn from other events that are similar in scope to your planned event.
 
 ### Maker Socials
-[Social events](makers_socializing.html) are not specifically about making things, but serve as a way to build and strengthen the Maker Community. Often it’s about connecting and sharing with other makers in a social setting. These may be networing events, or considered gatherings or relationship building.
+[Social events](makers_socializing) are not specifically about making things, but serve as a way to build and strengthen the Maker Community. Often it’s about connecting and sharing with other makers in a social setting. These may be networing events, or considered gatherings or relationship building.
 
 * Socials (includes parties)
 * Meetups / Maker Meetups
@@ -26,7 +26,7 @@ Maker events come in all shapes & sizes - so we've separated this playbook into 
 ---
 
 ###  Makers in the Community
-Bringing the passion for [making out into the world and sharing it](makers_going_into_community.html) with others is an important aspect of the Maker Community. This might include making or sharing at an event that someone else is organizing and hosting but you are just taking part in.
+Bringing the passion for [making out into the world and sharing it](makers_going_into_community) with others is an important aspect of the Maker Community. This might include making or sharing at an event that someone else is organizing and hosting but you are just taking part in.
 
 * Outreach (Going to do hands-on activities at other events)
 * Building Competitions
