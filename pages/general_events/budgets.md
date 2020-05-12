@@ -18,7 +18,7 @@ If you are creating very complex budgets, you can look into budgeting software, 
 
 To build your own budget spreadsheet in Google Sheets, create a new worksheet with a few columns: Item, Description, Quantities Needed, Budgeted Cost, Actual Cost, Over/Under. Here are some examples:
 
-![image]({{site.baseurl}}/images/general/expense budget.png)
+![image]({{site.baseurl}}/images/general/expense budget v2.png)
 
 ![image]({{site.baseurl}}/images/general/revenue budget.png)
 
