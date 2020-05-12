@@ -16,7 +16,7 @@ Next you should identify every part of your event that could potentially incur a
 
 If you are creating very complex budgets, you can look into budgeting software, but most events and organizations can do this in spreadsheets. Excel is a powerful tool, but Google Sheets work similarly and are easily shareable.
 
-To build your own budget spreadsheet in Google Sheets, create a new worksheet with a few columns: Item, Description, Quantities Needed, Budgeted Cost, Actual Cost, Over/Under. For example:
+To build your own budget spreadsheet in Google Sheets, create a new worksheet with a few columns: Item, Description, Quantities Needed, Budgeted Cost, Actual Cost, Over/Under. Here are some examples:
 
 ![image]({{site.baseurl}}/images/general/expense budget.png)
 
