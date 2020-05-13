@@ -44,7 +44,7 @@ kramdown:
  auto_ids: true
  hard_wrap: false
  syntax_highlighter: rouge
- 
+
 collections:
   events:
     output: true
@@ -108,3 +108,6 @@ theme: jekyll-theme-time-machine
 baseurl: /
 
 url: https://www.makereventplaybook.org
+
+# set timezone
+timezone: America/New_York
