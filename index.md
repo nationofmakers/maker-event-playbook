@@ -4,9 +4,12 @@ keywords: homepage
 tags: [getting_started]
 sidebar: home_sidebar
 permalink: /
+toc: false
 summary: This guide will help you plan a maker event and to learn from the experience of other maker event producers.
 layout: homepage
 ---
+
+![The Maker Event Playbook logo](/assets/branding/OSMEP-2.jpg)
 
 ## Maker Event Guides
 Maker events come in all shapes & sizes - so we've separated this playbook into three guides by event type to help you learn from other events that are similar in scope to your planned event.
