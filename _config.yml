@@ -105,6 +105,6 @@ description: "A guide for producing Maker Events, brought to you by the communit
 
 theme: jekyll-theme-time-machine
 
-baseurl: /maker-event-playbook
+baseurl: /
 
-url: https://nationofmakers.github.io/maker-event-playbook
+url: https://www.makereventplaybook.org
