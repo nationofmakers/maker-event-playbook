@@ -339,7 +339,22 @@ entries:
     output: web
     folderitems:
 
-    - title: Place Holder for Issues that Will Come Up
-      url: /#
+    - title: Issues Overview
+      url: /issues_that_can_occur
+      output: web
+      type:
+
+    - title: Natural Disasters
+      url: /issues_that_can_occur/natural_disasters
+      output: web
+      type:
+
+    - title: Pandemics
+      url: /issues_that_can_occur/pandemics
+      output: web
+      type: 
+
+    - title: Shootings
+      url: /issues_that_can_occur/shootings
       output: web
       type: 
