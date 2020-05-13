@@ -9,7 +9,7 @@ summary: Pages that Need Content
 ## Pages that Need Content
 
 <p>
-  {% for page in site.pages | group_by: "categories" %}
+  {% for page in site.pages %}
   	<ul>
   	{% for tag in page.tags %}
   		{% if tag == "need_content" %}
