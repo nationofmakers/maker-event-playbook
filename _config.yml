@@ -61,34 +61,7 @@ defaults:
       search: true
       sidebar: home_sidebar
       topnav: topnav
-  -
-    scope:
-      path: ""
-      type: "tooltips"
-    values:
-      layout: "page"
-      comments: false
-      search: true
-      tooltip: true
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: false
-      search: true
-      sidebar: home_sidebar
-      topnav: topnav
-  -
-    scope:
-      path: ""
-      type: "events"
-    values:
-      layout: "events"
-      comments: false
-      search: true
-      tooltip: true
+
 
 # these are defaults used for the frontmatter for these file types
 
@@ -105,7 +78,7 @@ description: "A guide for producing Maker Events, brought to you by the communit
 
 theme: jekyll-theme-time-machine
 
-baseurl: /
+baseurl:
 
 url: https://www.makereventplaybook.org
 
