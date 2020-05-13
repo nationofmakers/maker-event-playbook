@@ -9,75 +9,77 @@ summary: This guide will help you plan a maker event and to learn from the exper
 layout: homepage
 ---
 
-![The Maker Event Playbook logo](/assets/branding/OSMEP-2.jpg)
+![The Maker Event Playbook logo](/assets/branding/OSMEP-2.jpg){: width="600px"}
 
-## Maker Event Guides
-Maker events come in all shapes & sizes - so we've separated this playbook into three guides by event type to help you learn from other events that are similar in scope to your planned event.
+## Welcome
+This paragraph will provide an overview with a bit of history on how we got here, and where we are going. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
-### Maker Socials
-[Social events](makers_socializing) are not specifically about making things, but serve as a way to build and strengthen the Maker Community. Often it’s about connecting and sharing with other makers in a social setting. These may be networing events, or considered gatherings or relationship building.
-
-* Socials (includes parties)
-* Meetups / Maker Meetups
-* Festivals
-* Game Night
-* Birthday Party
-* Field Trips (visiting other places)
-* Event (that someone else is putting on)
-* Maker Conference (Speakers/Presentations/Ignite/BarCamp)
-    * Seeing a Show / Talk (Mythbusters Live, TEDx Talk, etc.)
-
+<div class="row">
+         <div class="col-lg-12">
+             <h2 class="page-header">Learn More & Get Involved</h2>
+         </div>
+         <div class="col-md-3 col-sm-6">
+             <div class="panel panel-default text-center">
+                 <div class="panel-heading">
+                     <span class="fa-stack fa-5x">
+                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                           <i class="fa fa-eye fa-stack-1x fa-inverse"></i>
+                     </span>
+                 </div>
+                 <div class="panel-body">
+                     <h4>Look Around</h4>
+                     <p>Check out some of the general event topics that relate to most maker events.</p>
+                     <a href="general_event_topics.html" class="btn btn-primary">Take a Look</a>
+                 </div>
+             </div>
+         </div>
+         <div class="col-md-3 col-sm-6">
+             <div class="panel panel-default text-center">
+                 <div class="panel-heading">
+                     <span class="fa-stack fa-5x">
+                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                           <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                     </span>
+                 </div>
+                 <div class="panel-body">
+                     <h4>Why GitHub?</h4>
+                     <p>Open Source software practices can help community documentation.</p>
+                     <a href="/contribute/why_github.html" class="btn btn-primary">Learn More</a>
+                 </div>
+             </div>
+         </div>
+         <div class="col-md-3 col-sm-6">
+             <div class="panel panel-default text-center">
+                 <div class="panel-heading">
+                     <span class="fa-stack fa-5x">
+                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                           <i class="fa fa-edit fa-stack-1x fa-inverse"></i>
+                     </span>
+                 </div>
+                 <div class="panel-body">
+                     <h4>Contributing</h4>
+                     <p>Learn how easy it is to contribute to the Open Source Maker Event Playbook.</p>
+                     <a href="contribute/contributing.html" class="btn btn-primary">Get Started</a>
+                 </div>
+             </div>
+         </div>
+         <div class="col-md-3 col-sm-6">
+             <div class="panel panel-default text-center">
+                 <div class="panel-heading">
+                     <span class="fa-stack fa-5x">
+                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                           <i class="fa fa-copy fa-stack-1x fa-inverse"></i>
+                     </span>
+                 </div>
+                 <div class="panel-body">
+                     <h4>Your Events</h4>
+                     <p>You can use this playbook template to document your org's maker events.</p>
+                     <a href="document_your_event.html" class="btn btn-primary">Learn More</a>
+                 </div>
+             </div>
+         </div>
+</div>
 ---
-
-###  Makers in the Community
-Bringing the passion for [making out into the world and sharing it](makers_going_into_community) with others is an important aspect of the Maker Community. This might include making or sharing at an event that someone else is organizing and hosting but you are just taking part in.
-
-* Outreach (Going to do hands-on activities at other events)
-* Building Competitions
-* PPPRS Event
-* Maker Camps (kid-based)
-* Workshops for kids
-* Make and Takes
-* Maker Meetups (including meetups around Faires like Bring-a-Hack)
-* Community Build (Magic Wheelchair/Art/Shared Project)
-* All of these have a supply list or physical things?
-
----
-
-### Hosting a Maker Event
-A [Maker Event](hosting_making) would include hands-on making or sharing of things people have made where you are organizing and producing the event and responsible for all that hosting entails.
-
-* Build Competitions
-* Maker Camps (kid based)
-* Workshops for kids
-* Make and Takes
-* Fundraisers (Build to Bid)
-* Meeting Location/Meetups (for other groups)
-* Get Stuff Done - Working on the makerspace itself
-* Makerspace/Hackerspace/Bullshit classes
-* Maker Faire and Maker Fests (show and tells)
-* Maker Markets/(M)Swap Meet (think selling)
-* Maker Conference (Speakers/Presentations/Ignite/BarCamp)
-* Maker Meetups (including meetups around Faires like Bring-a-Hack)
-* Community Build (Magic Wheelchair/Art/Shared Project)
-* Make-A-Thon/Hackathon/Game Jam
-* Maker Art Gallery (Maker takeover of art gallery)
-* Recovery/Support location (think after hurricanes)
-* Makerspace open house / open night / open make ?
-
----
-
-## Learn More & Get Involved
-This playbook is a project created and maintained by the maker event producers that are part of the [Nation of Makers](http://www.nationofmakers.us) community. We need your contributions to extend it to be a world-class resource for maker event producers!
-
-### Contribute to the Maker Event Playbook
-Want to contribute to the overall playbook? - [learn how to contribute](contribute/contributing)
-
-### Create a Playbook for your Maker Event
-You can easily create a playbook for your event - [learn how to create your own playbook](document_your_event.html)
-
-### Why GitHub?
-Wondering why this isn't a Wiki or a Google Doc? [Learn why we chose to build the Maker Event Playbook using GitHub...](/contribute/why_github)
 
 
 Last change: {{ site.time }}
