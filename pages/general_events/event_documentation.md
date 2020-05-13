@@ -25,7 +25,7 @@ All of these tools will work in a web browser, and most have desktop and mobile 
 
 * [Slack](https://slack.com/) provides a great way for teams to communicate and collaborate with each other (especially during an event) and while it's not made for long-form writing like Google Docs, it's a great place to quickly and easily capture your thoughts so you can expand on them later.
 
-* [Discord](https://discordapp.com/) is similar to Slack, but (as of this writing) does not have the limiations of the free version of Slack. Right now Slack has better integration with more business tools but Discord has a lot of great features as well, including some that Slack is missing.
+* [Discord](https://discord.com/) is similar to Slack, but (as of this writing) does not have the limiations of the free version of Slack. Right now Slack has better integration with more business tools but Discord has a lot of great features as well, including some that Slack is missing.
 
 * A **wiki** is a web site that anyone can edit, though you can also restrict who can edit it and even who can view it. The idea behind a wiki is that it's a web site, and you can easily make an edit to any page you are ready by just clicking the "Edit" button, or add a page by creating a link to it. [Wikidot](https://www.wikidot.com/) is one service that will allow you to set up a free wiki. There are also many great open source wikis availble that you can install on your own server.
 
