@@ -52,7 +52,7 @@ You can view your repo using GitHub pages, and make simple changes in the GitHub
 You will want a local build environment where you can clone your repo, make changes, and see those changes in realtime without waiting for GitHub to rebuild. This will also make your changes easier to pull back to the main repo since your commits will be much more logical.
 
 1. Setup a local build environment
-[This guide](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll#step-2-install-jekyll-using-bundler) from GitHub is super helpful for setting up your build environment.
+[This guide](https://help.github.com/en/github/setting-up-your-github-pages-site-locally-with-jekyll#step-2-install-jekyll-using-bundler) from GitHub is super helpful for setting up your build environment.
 
 2. Build the site with Jekyll
 ```bundle exec jekyll serve```
