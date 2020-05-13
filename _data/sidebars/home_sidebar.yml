@@ -326,6 +326,15 @@ entries:
       output: web
       type: 
 
+  - title: Going Virtual
+    output: web
+    folderitems:
+
+    - title: Things to Think About
+      url: /going_virtual
+      output: web
+      type:
+
   - title: Event Listings
     output: web
     folderitems:
