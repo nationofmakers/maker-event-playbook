@@ -3,7 +3,7 @@ title: Documenting Your Event
 keywords: homepage
 tags: need_content
 sidebar: home_sidebar
-permalink: document_your_event.html
+permalink: /contribute/document_your_event
 summary: You can extend this event playbook with documentation of your event practices, and use as your own local playbook.
 ---
 

@@ -36,6 +36,10 @@ entries:
       url: /contribute/editing-google-docs
       output: web
 
+    - title: Document Your Event
+      url: /contribute/document_your_event
+      output: web
+
     - title: Pages That Need Content
       url: /contribute/pages_that_need_content
       output: web
