@@ -1,7 +1,7 @@
 ---
 event-id:         mfmilwaukee
-name:             Maker Faire Milwaukee 
-website:              milwaukee.makerfaire.com
+name:             Maker Faire Milwaukee
+website:          https://milwaukee.makerfaire.com
 email:            info@makerfairemilwaukee.com
 next-dates-text:  September 13th - 15th, 2019
 featured:         true
