@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: Home
-  version: (MEP v0.1)
+  product:
+  version:
   folders:
 
   - title:
