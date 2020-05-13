@@ -77,7 +77,7 @@ The Maker Event Playbook is a project of [Nation of Makers](https://www.nationof
                  <div class="panel-body">
                      <h4>Your Events</h4>
                      <p>You can use this playbook template to document your org's maker events.</p>
-                     <a href="document_your_event.html" class="btn btn-primary">Learn More</a>
+                     <a href="contribute/document_your_event" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
