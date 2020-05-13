@@ -57,7 +57,7 @@ You will want a local build environment where you can clone your repo, make chan
 2. Build the site with Jekyll
 ```bundle exec jekyll serve```
 
-3. Load your site in a brower. Note that the url for the site will include /maker-event-playbook such as http://127.0.0.1:4000/maker-event-playbook/
+3. Load your site in a browser. Note that the url for the site will include /maker-event-playbook such as http://127.0.0.1:4000/maker-event-playbook/
 
 4. Note that as you edit and re-save files, Jekyll with automatically rebuild and update (fancy!)
 
