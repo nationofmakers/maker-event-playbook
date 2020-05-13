@@ -11,7 +11,7 @@ layout: homepage
 
 ![The Maker Event Playbook logo](/assets/branding/OSMEP-2.jpg){: width="600px"}
 
-## Welcome
+# A Playbook for Maker Event Organizers
 The Maker Event Playbook is a community-created playbook that documents a wide range of maker events and the topics that are relevant to maker event organizer. Whether you host small workshops in a makerspace or produce a large multi-day maker event such as a Maker Faire, this playbook is a place for you to find helpful information and to share the what you've learned with others.
 
 The Maker Event Playbook is a project of [Nation of Makers](https://www.nationofmakers.us), and will be maintained long-term by the Nation of Makers community. The project's initiation can be traced back to the maker event organizer track at [NOMCON](https://www.nomcon.org) 2019 (the Nation of Makers annual conference) with a workshop that led to several calls to action from the attendees, one of which was to create a community-driven playbook for maker events. This led to a proof of concept with GitHub Pages in the summer of 2019, and the creation of a [project team](/contribute/collaborators) in the fall of 2019 and the goal of launching the early draft of the playbook and opening up the playbook for contributors at NOMCON2020.
@@ -84,5 +84,7 @@ The Maker Event Playbook is a project of [Nation of Makers](https://www.nationof
 </div>
 ---
 
+## What's Next?
+At NOMCON 2020 we will be hosting sessions to share the playbook and to start on-boarding contributors. If you'd like to follow along, please join us in the Nation of Makers slack in the #maker_event_playbook channel and check out the pages above to start learning how the playbook works and how you can contribute.
 
-Last change: {{ site.time }}
+---
