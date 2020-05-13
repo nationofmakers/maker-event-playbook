@@ -7,14 +7,10 @@ permalink: /contribute/document_your_event
 summary: You can extend this event playbook with documentation of your event practices, and use as your own local playbook.
 ---
 
-## Heading  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
+{% include important.html content = "We are ALMOST ready and will be starting to onboard contributors at NOMCON 2020, stay tuned!" %}
 
-### 1. Heading
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
+## Coming Soon
+We will be on-boarding contributors for the overall event topics, and then will turn our attention to using this playbook as a template that can be forked and used for your event.
 
-###  2. Heading
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
-
-### 3. Heading 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl lectus. Praesent accumsan felis a auctor interdum. Nullam ultricies sagittis turpis sit amet porta.
+## Help Wanted
+If you are an Open Source wizard that is great with GitHub, we can use your help to get this process working! Find us in the Nation of Makers Slack #maker_event_playbook channel, or ping one of the [project collaborators](collaborators.html).
