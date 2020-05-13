@@ -7,7 +7,7 @@ permalink: /contribute/contributing
 summary: You can contribute to this playbook by adding to the playbook overview OR by documenting your own event.
 ---
 
-{% include warning.html content = "NOTE, WE ARE NOT READY FOR YOU TO DO THIS, BUT WANTED TO CREATE THIS PAGE :)" %}
+{% include important.html content = "We are ALMOST ready and will be starting to onboard contributors at NOMCON 2020, stay tuned!" %}
 
 ### Why GitHub
 
