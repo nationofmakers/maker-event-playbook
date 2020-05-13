@@ -12,7 +12,10 @@ layout: homepage
 ![The Maker Event Playbook logo](/assets/branding/OSMEP-2.jpg){: width="600px"}
 
 ## Welcome
-This paragraph will provide an overview with a bit of history on how we got here, and where we are going. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+The Maker Event Playbook is a community-created playbook that documents a wide range of maker events and the topics that are relevant to maker event organizer. Whether you host small workshops in a makerspace or produce a large multi-day maker event such as a Maker Faire, this playbook is a place for you to find helpful information and to share the what you've learned with others.
+
+The Maker Event Playbook is a project of [Nation of Makers](https://www.nationofmakers.us), and will be maintained long-term by the Nation of Makers community. The project's initiation can be traced back to the maker event organizer track at [NOMCON](https://www.nomcon.org) 2019 (the Nation of Makers annual conference) with a workshop that led to several calls to action from the attendees, one of which was to create a community-driven playbook for maker events. This led to a proof of concept with GitHub Pages in the summer of 2019, and the creation of a [project team](/contribute/collaborators) in the fall of 2019 and the goal of launching the early draft of the playbook and opening up the playbook for contributors at NOMCON2020.
+
 
 <div class="row">
          <div class="col-lg-12">
@@ -43,7 +46,7 @@ This paragraph will provide an overview with a bit of history on how we got here
                  </div>
                  <div class="panel-body">
                      <h4>Why GitHub?</h4>
-                     <p>Open Source software practices can help community documentation.</p>
+                     <p>Open Source software practices are perfect for community documentation.</p>
                      <a href="/contribute/why_github.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
