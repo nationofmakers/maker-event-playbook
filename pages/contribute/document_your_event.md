@@ -9,6 +9,8 @@ summary: You can extend this event playbook with documentation of your event pra
 
 {% include important.html content = "We are ALMOST ready and will be starting to onboard contributors at NOMCON 2020, stay tuned!" %}
 
+<iframe src="https://giphy.com/embed/3o72FkiKGMGauydfyg" width="480" height="363" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 ## Coming Soon
 We will be on-boarding contributors for the overall event topics, and then will turn our attention to using this playbook as a template that can be forked and used for your event.
 
