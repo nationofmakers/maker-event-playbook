@@ -21,8 +21,8 @@ summary: Here we have links to our logos, on your event page you could update th
 
 ## Logo usage
 
-Try and use the logo in conjunction with the Nation of Makers Logo
+Try to use the logo in conjunction with the Nation of Makers Logo.
 
 ## Font
 
-The logo uses Century Gothic Bold
+The logo uses Century Gothic Bold.
