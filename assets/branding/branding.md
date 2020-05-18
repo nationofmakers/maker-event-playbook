@@ -10,19 +10,19 @@ summary: Here we have links to our logos, on your event page you could update th
 ## Logos
 
 [Black Background 2000px wide logo](https://github.com/nationofmakers/maker-event-playbook/blob/master/assets/branding/OSMEP-dark-nom-2000px.jpg)
-![Black Background 2000px wide logo](/assets/branding/OSMEP-dark-nom-2000px.jpg){: width="300px"}
+![Black Background 2000px wide logo](/assets/branding/OSMEP-dark-nom-2000px.jpg){: width="100px"}
 
 [White Background 2000px wide logo](https://github.com/nationofmakers/maker-event-playbook/blob/master/assets/branding/OSMEP-light-nom-left.jpg)
-![White Background 2000px wide logo](/assets/branding/OSMEP-light-nom-left.jpg){: width="300px"}
+![White Background 2000px wide logo](/assets/branding/OSMEP-light-nom-left.jpg){: width="100px"}
 
 [White Background Icon](https://github.com/nationofmakers/maker-event-playbook/blob/master/assets/branding/OSMEP-light-icon.jpg)
-![White Background Icon](/assets/branding/OSMEP-light-icon.jpg){: width="200px"}
+![White Background Icon](/assets/branding/OSMEP-light-icon.jpg){: width="100px"}
 
 [Black Background Icon](https://github.com/nationofmakers/maker-event-playbook/blob/master/assets/branding/OSMEP-black-icon.jpg)
-![Black Background Icon](/assets/branding/OSMEP-black-icon.jpg){: width="200px"}
+![Black Background Icon](/assets/branding/OSMEP-black-icon.jpg){: width="100px"}
 
 [Transparent Background Icon](https://github.com/nationofmakers/maker-event-playbook/blob/master/assets/branding/OSMEP-transp-icon.png)
-![Transparent Background Icon](/assets/branding/OSMEP-transp-icon.png){: width="200px"}
+![Transparent Background Icon](/assets/branding/OSMEP-transp-icon.png){: width="100px"}
 
 ## Logo usage
 
