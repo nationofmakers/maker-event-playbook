@@ -45,7 +45,7 @@ entries:
       output: web
       
     - title: Branding
-      url: /assets/branding/Branding
+      url: /assets/branding/branding
       output: web
 
   - title: Social Events
