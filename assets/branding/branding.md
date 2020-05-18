@@ -3,7 +3,7 @@ title: Branding and Logos
 keywords: 
 tags: [Branding, Logos, Logo, artwork]
 sidebar: home_sidebar
-permalink: branding
+permalink: /assets/branding
 summary: Here we have links to our logos, on your event page you could update this with your branding and logos.
 ---
 
