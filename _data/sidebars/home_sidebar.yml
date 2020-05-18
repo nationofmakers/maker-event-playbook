@@ -43,6 +43,10 @@ entries:
     - title: Pages That Need Content
       url: /contribute/pages_that_need_content
       output: web
+      
+    - title: Branding
+      url: /assets/branding/Branding
+      output: web
 
   - title: Social Events
     output: web
