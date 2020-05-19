@@ -57,23 +57,8 @@ entries:
       output: web
       type:
 
-    - title: Socials & Parties
-      url: /makers_socializing/socials_parties
-      output: web
-      type: 
-
-    - title: Meetups
-      url: /makers_socializing/meetups
-      output: web
-      type: 
-
-    - title: Festivals
-      url: /makers_socializing/festivals
-      output: web
-      type:
-
-    - title: Game Nights
-      url: /makers_socializing/game_nights
+    - title: Attending Events
+      url: /makers_socializing/attending_events
       output: web
       type: 
 
@@ -82,18 +67,38 @@ entries:
       output: web
       type: 
 
+    - title: Festivals
+      url: /makers_socializing/festivals
+      output: web
+      type:
+
     - title: Field Trips
       url: /makers_socializing/field_trips
       output: web
       type: 
 
-    - title: Attending Events
-      url: /makers_socializing/attending_events
+    - title: Game Nights
+      url: /makers_socializing/game_nights
       output: web
       type: 
 
     - title: Maker Conference
       url: /makers_socializing/maker_conferences
+      output: web
+      type: 
+
+    - title: Meetups
+      url: /makers_socializing/meetups
+      output: web
+      type: 
+
+    - title: Seeing a Show
+      url: /makers_socializing/seeing_a_show
+      output: web
+      type: 
+
+    - title: Socials & Parties
+      url: /makers_socializing/socials_parties
       output: web
       type: 
 
@@ -111,18 +116,13 @@ entries:
       output: web
       type: 
 
-    - title: Maker Camps
-      url: /hosting_making/maker_camps
+    - title: Community Builds
+      url: /hosting_making/community_builds
       output: web
       type: 
 
-    - title: Workshops for Kids
-      url: /hosting_making/workshops_for_kids
-      output: web
-      type: 
-
-    - title: Make and Takes
-      url: /hosting_making/make_and_takes
+    - title: Disaster Recovery/Support Location
+      url: /hosting_making/disaster_support_location
       output: web
       type: 
 
@@ -131,38 +131,8 @@ entries:
       output: web
       type: 
 
-    - title: Meeting/Meetup Location
-      url: /hosting_making/meeting_location
-      output: web
-      type: 
-
-    - title: Space Improvement
-      url: /hosting_making/space_improvement
-      output: web
-      type: 
-
-    - title: Makerspace Classes
-      url: /hosting_making/makerspace_classes
-      output: web
-      type: 
-
-    - title: Maker Faires & Maker Fests
-      url: /hosting_making/maker_faires_maker_fests
-      output: web
-      type: 
-
-    - title: Maker Markets & Swap Meets
-      url: /hosting_making/maker_markets_swap_meets
-      output: web
-      type: 
-
-    - title: Maker Conferences
-      url: /hosting_making/maker_conferences
-      output: web
-      type: 
-
-    - title: Community Builds
-      url: /hosting_making/community_builds
+    - title: Make and Takes
+      url: /hosting_making/make_and_takes
       output: web
       type: 
 
@@ -176,13 +146,48 @@ entries:
       output: web
       type: 
 
-    - title: Disaster Recovery/Support Location
-      url: /hosting_making/disaster_support_location
+    - title: Maker Camps
+      url: /hosting_making/maker_camps
       output: web
       type: 
 
-    - title: Open House / Open Make
+    - title: Maker Conferences
+      url: /hosting_making/maker_conferences
+      output: web
+      type: 
+
+    - title: Maker Faires & Maker Fests
+      url: /hosting_making/maker_faires_maker_fests
+      output: web
+      type: 
+
+    - title: Maker Markets/Swap Meets
+      url: /hosting_making/maker_markets_swap_meets
+      output: web
+      type: 
+
+    - title: Makerspace Classes
+      url: /hosting_making/makerspace_classes
+      output: web
+      type: 
+
+    - title: Meeting/Meetup Location
+      url: /hosting_making/meeting_location
+      output: web
+      type: 
+
+    - title: Open House/Open Make
       url: /hosting_making/open_house_open_make
+      output: web
+      type: 
+
+    - title: Space Improvement
+      url: /hosting_making/space_improvement
+      output: web
+      type: 
+
+    - title: Workshops for Kids
+      url: /hosting_making/workshops_for_kids
       output: web
       type: 
 
@@ -200,18 +205,8 @@ entries:
       output: web
       type: 
 
-    - title: PPPRS Event
-      url: /makers_going_into_community/ppprs_event
-      output: web
-      type: 
-
-    - title: Maker Camps (kid-based)
-      url: /makers_going_into_community/maker_camps
-      output: web
-      type: 
-
-    - title: Workshops for Kids
-      url: /makers_going_into_community/workshops_for_kids
+    - title: Community Builds
+      url: /makers_going_into_community/community_builds
       output: web
       type: 
 
@@ -220,13 +215,23 @@ entries:
       output: web
       type: 
 
+    - title: Maker Camps
+      url: /makers_going_into_community/maker_camps
+      output: web
+      type: 
+
     - title: Maker Meetups
       url: /makers_going_into_community/maker_meetups
       output: web
       type: 
 
-    - title: Community Builds
-      url: /makers_going_into_community/community_builds
+    - title: Power Racing Series Event
+      url: /makers_going_into_community/ppprs_event
+      output: web
+      type: 
+
+    - title: Workshops for Kids
+      url: /makers_going_into_community/workshops_for_kids
       output: web
       type: 
 

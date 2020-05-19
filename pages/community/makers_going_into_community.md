@@ -13,7 +13,7 @@ Bringing the passion for making out into the world and sharing it with others is
 * [Building Competitions](/makers_going_into_community/building_competitions)
 * [Community Builds](/makers_going_into_community/community_builds) - Magic Wheelchair/Art/Shared Project
 * [Make and Takes](/makers_going_into_community/make_and_takes)
-* [Maker Camps (kid-based)](/makers_going_into_community/maker_camps)
+* [Maker Camps](/makers_going_into_community/maker_camps)
 * [Maker Meetups](/makers_going_into_community/maker_meetups) - including meetups around Faires like Bring-a-Hack
 * [Power Racing Series Event](/makers_going_into_community/ppprs_event)
 * [Workshops for Kids](/makers_going_into_community/workshops_for_kids)
@@ -21,4 +21,4 @@ Bringing the passion for making out into the world and sharing it with others is
 
 ---
 
-Question: Do all of these have a supply list or physical things?
+<!-- Question: Do all of these have a supply list or physical things? -->
