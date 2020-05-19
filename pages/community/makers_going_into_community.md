@@ -18,7 +18,6 @@ Bringing the passion for making out into the world and sharing it with others is
 * [Power Racing Series Event](/makers_going_into_community/ppprs_event)
 * [Workshops for Kids](/makers_going_into_community/workshops_for_kids)
 
-
 ---
 
 <!-- Question: Do all of these have a supply list or physical things? -->

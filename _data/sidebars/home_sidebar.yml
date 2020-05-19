@@ -195,7 +195,7 @@ entries:
     output: web
     folderitems:
 
-    - title: Making with Community Overview
+    - title: Going into Community Overview
       url: /makers_going_into_community
       output: web
       type: 
