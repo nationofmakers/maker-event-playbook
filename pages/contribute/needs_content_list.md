@@ -21,3 +21,6 @@ summary: Pages that Need Content
 </p>
 
 <br>
+
+## How Edit This List
+This list is automatically generated from all pages that contain the TAG "need_content" (without quotes) in the front matter. If you add content to one of these pages and it is functionally complete, please remove the "need_content" tag from that page as you finalize and publish it.
