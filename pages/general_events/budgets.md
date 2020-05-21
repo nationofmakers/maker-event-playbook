@@ -35,7 +35,7 @@ If you are having some trouble getting started budgeting your costs, do some res
 
 ## Contact Potential Vendors
 
-You can get pricing estimates from websites, email, making phone calls, or request a quote online. This step can take time, but is valuable if you want an accurate budget. Also consider offering vendors a sponsorship arrangement in exchange for donated or discounted goods or services. This will help with cash flow by keeping your costs down, but you should still keep t rack of your budgeted in-kind donations. You may not get these next year and will need to know the cost for future events.
+You can get pricing estimates from websites, email, making phone calls, or request a quote online. This step can take time, but is valuable if you want an accurate budget. Also consider offering vendors a sponsorship arrangement in exchange for donated or discounted goods or services. This will help with cash flow by keeping your costs down, but you should still keep track of your budgeted in-kind donations. You may not get these next year and will need to know the cost for future events.
 
 IMPORTANT - Don’t always go with the cheapest option. Go with a vendor who understands your vision. These vendors are more likely to be potential sponsors and just might become long time community partners. Also, keep in mind that one expense can depend on another. For example, a particular venue may require you to use a specific electrician, caterer, internet, or A/V company.
 
