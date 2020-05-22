@@ -3,7 +3,7 @@ title: Pages that Need Content
 tags: [getting_started]
 sidebar: home_sidebar
 permalink: /contribute/pages_that_need_content
-summary: Pages that Need Content
+summary: The Maker Event Playbook still needs a LOT of content and YOU can help! Pick one of the pages below and get started today!
 ---
 
 ## Pages that Need Content
@@ -21,3 +21,6 @@ summary: Pages that Need Content
 </p>
 
 <br>
+
+## How Edit This List
+This list is automatically generated from all pages that contain the TAG "need_content" (without quotes) in the front matter. If you add content to one of these pages and it is functionally complete, please remove the "need_content" tag from that page as you finalize and publish it.
