@@ -348,7 +348,7 @@ entries:
       output: web
       type:
       
-      - title: Virtual Power Racing
+    - title: Virtual Power Racing
       url: /virtual_power_racing
       output: web
       type:
