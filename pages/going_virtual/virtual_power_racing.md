@@ -1,7 +1,7 @@
 ---
 title: Virtual Power Racing
 keywords: General Topics
-tags: {racing, virtual, game, fun}
+tags: [racing, virtual, game, fun]
 sidebar: home_sidebar
 permalink: virtual_power_racing
 summary: Power Racing is a part of many Maker events and makerspaces, taking it online has made more races available to teams acrross the world.
