@@ -4,7 +4,7 @@ keywords: General Topics
 tags: [code, conduct, behavior, participate, rules, guidelines, social, contract]
 sidebar: home_sidebar
 permalink: /general/code_of_conduct
-summary: A  Code of Conduct is a set of guidelines and rules about behavior of participants. Many orgnizations, groups, and events publish a Code of Conduct to let people know what is expected of them, and what they can expect of others, when being part of an experience.
+summary: A Code of Conduct is a set of guidelines and rules about behavior of participants. Many orgnizations, groups, and events publish a Code of Conduct to let people know what is expected of them, and what they can expect of others, when being part of an experience.
 ---
 
 ## Why Have a Code of Conduct?

@@ -347,6 +347,12 @@ entries:
       url: /going_virtual
       output: web
       type:
+      
+    - title: Virtual Power Racing
+      url: /virtual_power_racing
+      output: web
+      type:
+      
 
   - title: Event Listings
     output: web
