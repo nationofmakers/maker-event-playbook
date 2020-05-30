@@ -31,7 +31,7 @@ entries:
     - title: Contributing
       url: /contribute/contributing
       output: web
-      
+
     - title: Editing with Google Docs
       url: /contribute/editing-google-docs
       output: web
@@ -43,7 +43,7 @@ entries:
     - title: Pages That Need Content
       url: /contribute/pages_that_need_content
       output: web
-      
+
     - title: Branding
       url: /assets/branding
       output: web
@@ -60,12 +60,12 @@ entries:
     - title: Attending Events
       url: /makers_socializing/attending_events
       output: web
-      type: 
+      type:
 
     - title: Birthday Parties
       url: /makers_socializing/birthday_parties
       output: web
-      type: 
+      type:
 
     - title: Festivals
       url: /makers_socializing/festivals
@@ -75,32 +75,32 @@ entries:
     - title: Field Trips
       url: /makers_socializing/field_trips
       output: web
-      type: 
+      type:
 
     - title: Game Nights
       url: /makers_socializing/game_nights
       output: web
-      type: 
+      type:
 
     - title: Maker Conference
       url: /makers_socializing/maker_conferences
       output: web
-      type: 
+      type:
 
     - title: Meetups
       url: /makers_socializing/meetups
       output: web
-      type: 
+      type:
 
     - title: Seeing a Show
       url: /makers_socializing/seeing_a_show
       output: web
-      type: 
+      type:
 
     - title: Socials & Parties
       url: /makers_socializing/socials_parties
       output: web
-      type: 
+      type:
 
   - title: Makers Hosting Making Events
     output: web
@@ -109,87 +109,87 @@ entries:
     - title: Making Events Overview
       url: /hosting_making
       output: web
-      type: 
+      type:
 
     - title: Build Competitions
       url: /hosting_making/build_competitions
       output: web
-      type: 
+      type:
 
     - title: Community Builds
       url: /hosting_making/community_builds
       output: web
-      type: 
+      type:
 
     - title: Disaster Recovery/Support Location
       url: /hosting_making/disaster_support_location
       output: web
-      type: 
+      type:
 
     - title: Fundraisers
       url: /hosting_making/fundraisers
       output: web
-      type: 
+      type:
 
     - title: Make and Takes
       url: /hosting_making/make_and_takes
       output: web
-      type: 
+      type:
 
     - title: Make-A-Thon/Hackathon/Game Jam
       url: /hosting_making/make_a_thon_hackathon
       output: web
-      type: 
+      type:
 
     - title: Maker Art Gallery (Maker Takeover)
       url: /hosting_making/maker_art_gallery
       output: web
-      type: 
+      type:
 
     - title: Maker Camps
       url: /hosting_making/maker_camps
       output: web
-      type: 
+      type:
 
     - title: Maker Conferences
       url: /hosting_making/maker_conferences
       output: web
-      type: 
+      type:
 
     - title: Maker Faires & Maker Fests
       url: /hosting_making/maker_faires_maker_fests
       output: web
-      type: 
+      type:
 
     - title: Maker Markets/Swap Meets
       url: /hosting_making/maker_markets_swap_meets
       output: web
-      type: 
+      type:
 
     - title: Makerspace Classes
       url: /hosting_making/makerspace_classes
       output: web
-      type: 
+      type:
 
     - title: Meeting/Meetup Location
       url: /hosting_making/meeting_location
       output: web
-      type: 
+      type:
 
     - title: Open House/Open Make
       url: /hosting_making/open_house_open_make
       output: web
-      type: 
+      type:
 
     - title: Space Improvement
       url: /hosting_making/space_improvement
       output: web
-      type: 
+      type:
 
     - title: Workshops for Kids
       url: /hosting_making/workshops_for_kids
       output: web
-      type: 
+      type:
 
   - title: Makers Going Into Community
     output: web
@@ -198,42 +198,42 @@ entries:
     - title: Going into Community Overview
       url: /makers_going_into_community
       output: web
-      type: 
+      type:
 
     - title: Building Competitions
       url: /makers_going_into_community/building_competitions
       output: web
-      type: 
+      type:
 
     - title: Community Builds
       url: /makers_going_into_community/community_builds
       output: web
-      type: 
+      type:
 
     - title: Make and Takes
       url: /makers_going_into_community/make_and_takes
       output: web
-      type: 
+      type:
 
     - title: Maker Camps
       url: /makers_going_into_community/maker_camps
       output: web
-      type: 
+      type:
 
     - title: Maker Meetups
       url: /makers_going_into_community/maker_meetups
       output: web
-      type: 
+      type:
 
     - title: Power Racing Series Event
       url: /makers_going_into_community/ppprs_event
       output: web
-      type: 
+      type:
 
     - title: Workshops for Kids
       url: /makers_going_into_community/workshops_for_kids
       output: web
-      type: 
+      type:
 
   - title: General Event Topics
     output: web
@@ -242,102 +242,102 @@ entries:
     - title: General Event Topics Overview
       url: /general_event_topics
       output: web
-      type: 
+      type:
 
     - title: Budgets
       url: /general/budgets
       output: web
-      type: 
+      type:
 
     - title: Code of Conduct
       url: /general/code_of_conduct
       output: web
-      type: 
+      type:
 
     - title: Event Documentation
       url: /general/event_documentation
       output: web
-      type: 
+      type:
 
     - title: Event Technology
       url: /general/event_technology
       output: web
-      type: 
+      type:
 
     - title: Insurance
       url: /general/insurance
       output: web
-      type: 
+      type:
 
     - title: Licensing
       url: /general/licensing_agreements
       output: web
-      type: 
+      type:
 
     - title: Locations
       url: /general/locations
       output: web
-      type: 
+      type:
 
     - title: Marketing
       url: /general/marketing
       output: web
-      type: 
+      type:
 
     - title: Participating Entities
       url: /general/participating_entities
       output: web
-      type: 
+      type:
 
     - title: Photo/Video Release
       url: /general/photo_video_release
       output: web
-      type: 
+      type:
 
     - title: Safety / Security
       url: /general/safety_security
       output: web
-      type: 
+      type:
 
     - title: Setup Time / Strike Time
       url: /general/setup_strike_time
       output: web
-      type: 
+      type:
 
     - title: Signage
       url: /general/signage
       output: web
-      type: 
+      type:
 
     - title: Sponsorship
       url: /general/sponsorships
       output: web
-      type: 
+      type:
 
     - title: Tickets
       url: /general/tickets
       output: web
-      type: 
+      type:
 
     - title: Radios
       url: /general/radios
       output: web
-      type: 
+      type:
 
     - title: Unexpected Issues
       url: /general/unexpected_issues
       output: web
-      type: 
+      type:
 
     - title: Volunteers
       url: /general/volunteers
       output: web
-      type: 
+      type:
 
     - title: 21+ Events
       url: /general/21_plus_events
       output: web
-      type: 
+      type:
 
   - title: Going Virtual
     output: web
@@ -347,12 +347,12 @@ entries:
       url: /going_virtual
       output: web
       type:
-      
+
     - title: Virtual Power Racing
       url: /virtual_power_racing
       output: web
       type:
-      
+
 
   - title: Event Listings
     output: web
@@ -361,7 +361,7 @@ entries:
     - title: Place Holder for Event Lists
       url: /event_listing
       output: web
-      type: 
+      type:
 
   - title: Issues that Will Come Up
     output: web
@@ -380,9 +380,9 @@ entries:
     - title: Pandemics
       url: /issues_that_can_occur/pandemics
       output: web
-      type: 
+      type:
 
     - title: Shootings
       url: /issues_that_can_occur/shootings
       output: web
-      type: 
+      type:
