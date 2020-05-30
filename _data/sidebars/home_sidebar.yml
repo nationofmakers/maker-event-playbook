@@ -20,7 +20,7 @@ entries:
     folderitems:
 
     - title: Get started
-      url: /#
+      url: /
       output: web
       type: homepage
 
