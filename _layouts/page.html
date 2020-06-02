@@ -45,6 +45,10 @@ layout: default
 
     {% endif %}
 
+    {% if page.tags == "need_content" %}
+      {% include important.html content = "Hey! You might have noticed that this page looks bare. Helps us by adding content." %}
+    {% endif %}
+
    {{content}}
 
 {% include commento.html %}
