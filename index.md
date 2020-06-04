@@ -18,6 +18,7 @@ The Maker Event Playbook is a project of [Nation of Makers](https://www.nationof
 
 ## NOMCON 2020 Slides
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRsiXWQcxA0iP-IsFfzoJuUAcB-P9mxCZlZBoBccXFpDMJcWbrT4bzaM-v7VNOtieZqT1ggjbRC0JDQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+[PDF Version](images/nomcon2020/Maker Event Playbook - NOMCON2020.pdf)
 
 ---
 
