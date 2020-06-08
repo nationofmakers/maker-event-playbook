@@ -4,7 +4,7 @@ keywords:
 tags: [make, take, workshop]
 sidebar: home_sidebar
 permalink: /hosting_making/make_and_takes
-summary: A "Make and Take" typically involves facilitating a hands-on workshop where participants get to make something and take it home with them. ("Make" and "Take"!)
+summary: A 'Make and Take' typically involves facilitating a hands-on workshop where participants get to make something and take it home with them. ("Make" and "Take"!)
 ---
 
 ## What is a "Make and Take"?
