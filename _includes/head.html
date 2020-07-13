@@ -6,15 +6,6 @@
 <meta name="description" content="{% if page.summary %}{{ page.summary | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
 <meta name="keywords" content="{{page.tags}}{% if page.tags %}, {% endif %} {{page.keywords}}">
 
-{%comment%}
-REMOVING THESE TO USE JEKYLL-SEO-TAG
-<meta property="og:url"                content="{{site.url}}{{page.url}}" />
-<meta property="og:type"               content="article" />
-<meta property="og:title"              content="{{page.title}}" />
-<meta property="og:description"        content="{% if page.summary %}{{ page.summary | strip_html | strip_newlines | truncate: 160 }}{% endif %}" />
-<meta property="og:image"              content="{{site.url}}/assets/branding/OSMEP-dark-nom-facebook-link-preview.jpg" />
-{%endcomment%}
-
 <title>{{ page.title }} | {{ site.site_title }}</title>
 <link rel="stylesheet" href="{{site.url }}/assets/css/syntax.css">
 
