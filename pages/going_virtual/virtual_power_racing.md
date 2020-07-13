@@ -11,7 +11,7 @@ summary: Power Racing is a part of many Maker events and makerspaces, taking it 
 
 
 ## The Game
-[Assetto Corsa](https://store.steampowered.com/app/244210/Assetto_Corsa/) is the game used to race on.  This game has a large community with many modifications available to the game.  Maps and Cars can be modeled in blender and raced in the game.  
+[Assetto Corsa](https://www.assettocorsa.net/), (not assetto corsa competizione) is the game used to race on.  This game has a large community with many modifications available to the game.  Maps and Cars can be modeled in blender and raced in the game.  
 ## The Cars and Maps
 A group of Power Racers called Lazy Gecko started this series in 2020, they spun up the initial car and map models specifically for the series.  You can download thier content from [this github repo](https://github.com/rick-lg/Lazy-Gecko-AC)
 ## Hosting and Organizing Races
