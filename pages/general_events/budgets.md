@@ -4,7 +4,9 @@ keywords: General Topics
 tags:
 sidebar: home_sidebar
 permalink: /general/budgets
-summary: Budgets do things...
+summary: The best plan includes a realistic budget!
+image: /images/general/expense budget v2.png
+description: The best plan includes a realistic budget!
 ---
 ## Getting Started
 
@@ -23,7 +25,7 @@ To build your own budget spreadsheet in Google Sheets, create a new worksheet wi
 ![image]({{site.baseurl}}/images/general/revenue budget.png)
 
 
-Now add line items for every detail, even ones you believe will be donated. Donated products or services help keep your costs down, but it is important to know exactly what the event actually costs to hold. Therefore, you will need to track the value of any donated products or services. 
+Now add line items for every detail, even ones you believe will be donated. Donated products or services help keep your costs down, but it is important to know exactly what the event actually costs to hold. Therefore, you will need to track the value of any donated products or services.
 
 Be very detailed - it is much easier to combine line items later than to separate them after the fact. Add expected expense amounts in and then you can fill in the actual costs later as they are incurred. The inclusion of an over/under column is so that anyone reviewing the budget vs. actuals can easily spot any potential issues or opportunities.
 
@@ -47,9 +49,7 @@ Another option for revenue is selling swag or merchandise. If you choose this ro
 
 ## Other Things to Consider
 
-Keep close track of deadlines. Things often get more expensive as time or key dates pass by. Do not underprice anything just to make it look good on paper. Be realistic - a good rule of thumb in budgeting is to be aggressive with your expense budget and conservative with your revenue budget. 
+Keep close track of deadlines. Things often get more expensive as time or key dates pass by. Do not underprice anything just to make it look good on paper. Be realistic - a good rule of thumb in budgeting is to be aggressive with your expense budget and conservative with your revenue budget.
 Remember that cheapest is not always the best option. Sometimes, spending a little extra in a certain area can make the difference between a good event and an amazing one (decorations, signage, lighting, etc.).
 
 Most importantly, make sure you communicate regularly with your team. It is critical to make sure that everyone is on the same page at regular intervals so you can all support each other and have an amazing and successful event!
-
-
