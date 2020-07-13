@@ -171,6 +171,11 @@ entries:
       output: web
       type:
 
+    - title: Makerspace Equipment Training
+      url: /hosting_making/equipment_training
+      output: web
+      type:
+
     - title: Meeting/Meetup Location
       url: /hosting_making/meeting_location
       output: web
