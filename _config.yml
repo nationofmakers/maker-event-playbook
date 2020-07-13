@@ -3,6 +3,7 @@ remote_theme: tomjoht/documentation-theme-jekyll@gh-pages
 #enable local builds using remote theme
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
 repository: nationofmakers/maker-event-playbook
 
@@ -61,6 +62,12 @@ defaults:
       search: true
       sidebar: home_sidebar
       topnav: topnav
+  #seo default image
+  -
+    scope:
+      path: ""
+    values:
+      image: /assets/branding/OSMEP-dark-nom-facebook-link-preview.jpg
 
 
 # these are defaults used for the frontmatter for these file types
@@ -84,3 +91,10 @@ url: https://www.makereventplaybook.org
 
 # set timezone
 timezone: America/New_York
+
+#seo
+#begin seo
+title: Maker Event Playbook
+tagline: Learn, Share & Produce Great Maker Events!
+description: A guide for producing Maker Events, brought to you by the community of maker event producers within Nation of Makers.
+logo: /assets/branding/tm-OSMEP-light-nom-left.jpg
