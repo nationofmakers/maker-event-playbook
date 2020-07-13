@@ -4,6 +4,7 @@ remote_theme: tomjoht/documentation-theme-jekyll@gh-pages
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 repository: nationofmakers/maker-event-playbook
 
