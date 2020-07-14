@@ -49,5 +49,3 @@ A valuable extension of this idea is to offer training classes that give each cl
 ## Provide a way for people to review information on their own as needed
 
 Since an equipment training class can cover quite a bit of material, and many makerspace users will not be in the makerspace using that equipment every single day, it is helpful to provide a way for people who have taken the class to review the material learned. These can be quick videos, printed handouts, posted signs summarizing the steps for a process, or other formats.
-
-####

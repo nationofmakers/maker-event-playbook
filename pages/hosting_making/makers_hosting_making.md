@@ -21,10 +21,8 @@ A Maker Event would include hands-on making or sharing of things people have mad
 * [Maker Faires & Maker Fests (Show & Tell)](/hosting_making/maker_faires_maker_fests)
 * [Maker Markets/Swap Meets](/hosting_making/maker_markets_swap_meets)
 * [Makerspace Classes](/hosting_making/makerspace_classes)
+* [Makerspace Equipment Training](/hosting_making/equipment_training)
 * [Meeting/Meetup Location](/hosting_making/meeting_location)
 * [Open House/Open Make](/hosting_making/open_house_open_make)
 * [Space Improvement](/hosting_making/space_improvement)
 * [Workshops for Kids](/hosting_making/workshops_for_kids)
-
-
-
