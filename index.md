@@ -14,9 +14,12 @@ layout: homepage
 # A Playbook for Maker Event Organizers
 The Maker Event Playbook is a community-driven playbook that documents a wide range of maker events and the topics that are relevant to maker event organizer. Whether you host small workshops in a makerspace or produce a large multi-day maker event such as a Maker Faire, this playbook is a place for you to find helpful information and to share the what you've learned with others.
 
-The Maker Event Playbook is a project of [Nation of Makers](https://www.nationofmakers.us), and will be maintained long-term by the Nation of Makers community. The project's initiation can be traced back to the maker event organizer track at [NOMCON](https://www.nomcon.org) 2019 (the Nation of Makers annual conference) with a workshop that led to a call to action for a community-driven playbook for maker events. With support from Google as part of their ongoing support for the maker community, a [project team](/contribute/collaborators) formed in the fall of 2019 and the playbook is being launched on June 3rd at NOMCON 2020!
+The Maker Event Playbook is a project of [Nation of Makers](https://www.nationofmakers.us), and will be maintained long-term by the Nation of Makers community. The project's initiation can be traced back to the maker event organizer track at [NOMCON](https://www.nomcon.org) 2019 (the Nation of Makers annual conference) with a workshop that led to a call to action for a community-driven playbook for maker events. With support from Google as part of their ongoing support for the maker community, a [project team](/contribute/collaborators) formed in the fall of 2019 and the playbook was launched at NOMCON 2020!
 
-## NOMCON 2020 Slides
+## NOMCON 2020 
+<iframe width="700" height="422" src="https://www.youtube.com/embed/FTqhshS54AQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Slides
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRsiXWQcxA0iP-IsFfzoJuUAcB-P9mxCZlZBoBccXFpDMJcWbrT4bzaM-v7VNOtieZqT1ggjbRC0JDQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 [PDF Version](images/nomcon2020/Maker Event Playbook - NOMCON2020.pdf)
 
