@@ -17,6 +17,7 @@ The Maker Event Playbook is a community-driven playbook that documents a wide ra
 The Maker Event Playbook is a project of [Nation of Makers](https://www.nationofmakers.us), and will be maintained long-term by the Nation of Makers community. The project's initiation can be traced back to the maker event organizer track at [NOMCON](https://www.nomcon.org) 2019 (the Nation of Makers annual conference) with a workshop that led to a call to action for a community-driven playbook for maker events. With support from Google as part of their ongoing support for the maker community, a [project team](/contribute/collaborators) formed in the fall of 2019 and the playbook was launched at NOMCON 2020!
 
 ## NOMCON 2020 
+### Session Recording
 <iframe width="700" height="422" src="https://www.youtube.com/embed/FTqhshS54AQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Slides
