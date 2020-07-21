@@ -94,6 +94,6 @@ The Maker Event Playbook is a project of [Nation of Makers](https://www.nationof
 ---
 
 ## What's Next?
-At NOMCON 2020 we will be hosting sessions to share the playbook and to start on-boarding contributors. If you'd like to follow along, please join us in the Nation of Makers slack in the #maker_event_playbook channel and check out the pages above to start learning how the playbook works and how you can contribute. Make sure to [get your NOMCON 2020 tickets](https://www.nomcon.org) ASAP and watch for session on the Maker Event Playbook!
+We are currenly on-boarding authors, publishers, and coders to continue the playbook. If you'd like to get involved, please [email us](mailto:makereventplaybook@nationofmakers.us) or join us in the Nation of Makers slack in the #maker_event_playbook channel. Check out the pages above to start learning how the playbook works and how you can contribute!
 
 ---
